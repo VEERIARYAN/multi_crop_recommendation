@@ -1,0 +1,1501 @@
+Soil_Type,Soil_Moisture_Level,Soil_Nitrogen_Level (N),Soil_Phosphorus_Level (P),Soil_Potassium_Level (K),Rainfall,Region_Name,Season,Recommended_Crops
+Silty Loam,11.00%,120,22,89,948 mm,Odisha,Rabi,"['Mustard', 'Pulses']"
+Silty Loam,13.00%,38,33,89,458 mm,West Bengal,Rabi,"['Pulses', 'Mustard']"
+Sandy Loam,45.00%,42,68,24,928 mm,West Bengal,Zaid,"['Chickpea', 'Cotton']"
+Sandy Loam,14.00%,90,79,101,977 mm,West Bengal,Zaid,['Groundnut']
+Sandy Loam,47.00%,66,48,66,861 mm,Karnataka,Kharif,"['Chickpea', 'Groundnut']"
+Silty Loam,14.00%,30,77,81,1088 mm,West Bengal,Rabi,"['Pulses', 'Vegetables']"
+Sandy Loam,19.00%,55,58,46,904 mm,Odisha,Zaid,"['Groundnut', 'Chickpea']"
+Silty Loam,14.00%,83,46,47,342 mm,Odisha,Kharif,"['Mustard', 'Vegetables', 'Pulses']"
+Loamy,18.00%,107,89,105,821 mm,West Bengal,Zaid,['Barley']
+Sandy Loam,16.00%,68,85,26,1117 mm,Tamil Nadu,Rabi,['Groundnut']
+Sandy Loam,43.00%,99,39,30,1115 mm,Karnataka,Zaid,"['Cotton', 'Chickpea', 'Groundnut']"
+Loamy,14.00%,64,66,59,781 mm,Karnataka,Zaid,"['Maize', 'Barley', 'Wheat']"
+Loamy,41.00%,74,47,56,1166 mm,Andhra Pradesh,Zaid,['Maize']
+Black Cotton Soil,47.00%,117,29,73,745 mm,Odisha,Zaid,"['Cotton', 'Sorghum']"
+Silty Loam,52.00%,48,32,88,909 mm,Maharashtra,Rabi,['Pulses']
+Loamy,53.00%,39,46,53,1042 mm,West Bengal,Zaid,"['Wheat', 'Maize', 'Barley']"
+Loamy,29.00%,71,45,56,765 mm,Maharashtra,Kharif,"['Maize', 'Barley']"
+Silty Loam,56.00%,110,66,101,523 mm,Maharashtra,Rabi,['Pulses']
+Sandy Loam,53.00%,104,38,98,948 mm,Tamil Nadu,Zaid,"['Cotton', 'Groundnut']"
+Loamy,49.00%,114,86,47,1006 mm,Andhra Pradesh,Zaid,"['Maize', 'Wheat', 'Barley']"
+Clayey,45.00%,43,38,32,609 mm,Tamil Nadu,Kharif,"['Rice', 'Sugarcane']"
+Sandy Loam,59.00%,74,90,30,796 mm,Maharashtra,Kharif,"['Groundnut', 'Chickpea']"
+Loamy,40.00%,93,24,56,375 mm,Tamil Nadu,Zaid,"['Barley', 'Maize']"
+Loamy,11.00%,36,58,46,657 mm,Andhra Pradesh,Zaid,"['Barley', 'Maize', 'Wheat']"
+Loamy,48.00%,59,75,26,827 mm,West Bengal,Kharif,"['Maize', 'Wheat']"
+Loamy,35.00%,81,38,96,1022 mm,West Bengal,Zaid,"['Maize', 'Wheat', 'Barley']"
+Clayey,26.00%,100,31,45,396 mm,West Bengal,Zaid,"['Jute', 'Sugarcane']"
+Clayey,35.00%,36,73,59,332 mm,Punjab,Rabi,"['Jute', 'Rice', 'Sugarcane']"
+Clayey,31.00%,109,66,49,899 mm,Karnataka,Zaid,"['Jute', 'Rice']"
+Black Cotton Soil,15.00%,94,65,33,331 mm,Maharashtra,Kharif,['Soybean']
+Sandy Loam,20.00%,100,33,30,848 mm,Karnataka,Zaid,['Groundnut']
+Black Cotton Soil,50.00%,82,51,59,1087 mm,Karnataka,Kharif,"['Sorghum', 'Cotton', 'Soybean']"
+Clayey,24.00%,87,43,106,1166 mm,Tamil Nadu,Rabi,"['Sugarcane', 'Rice', 'Jute']"
+Loamy,13.00%,42,47,79,1185 mm,Maharashtra,Zaid,"['Maize', 'Barley', 'Wheat']"
+Loamy,14.00%,52,27,99,813 mm,Odisha,Zaid,"['Barley', 'Maize']"
+Sandy Loam,53.00%,74,24,77,822 mm,Tamil Nadu,Kharif,"['Groundnut', 'Cotton']"
+Loamy,19.00%,61,34,83,606 mm,Odisha,Kharif,['Wheat']
+Sandy Loam,38.00%,89,30,103,961 mm,Punjab,Zaid,"['Cotton', 'Chickpea', 'Groundnut']"
+Clayey,53.00%,73,51,23,866 mm,Maharashtra,Kharif,['Rice']
+Silty Loam,13.00%,42,56,20,1050 mm,Punjab,Zaid,"['Pulses', 'Mustard']"
+Silty Loam,55.00%,95,27,72,1026 mm,Maharashtra,Rabi,['Vegetables']
+Silty Loam,38.00%,104,85,91,366 mm,West Bengal,Zaid,"['Mustard', 'Vegetables', 'Pulses']"
+Clayey,44.00%,33,39,25,469 mm,Punjab,Zaid,"['Jute', 'Rice']"
+Loamy,28.00%,60,34,60,947 mm,Maharashtra,Kharif,"['Barley', 'Wheat', 'Maize']"
+Sandy Loam,34.00%,118,51,110,855 mm,Punjab,Kharif,['Chickpea']
+Black Cotton Soil,49.00%,79,49,30,362 mm,Andhra Pradesh,Rabi,"['Cotton', 'Sorghum']"
+Clayey,42.00%,77,54,54,560 mm,Maharashtra,Kharif,"['Rice', 'Sugarcane']"
+Black Cotton Soil,27.00%,71,44,46,683 mm,Andhra Pradesh,Zaid,"['Soybean', 'Sorghum', 'Cotton']"
+Clayey,13.00%,98,29,65,877 mm,Odisha,Zaid,"['Sugarcane', 'Jute']"
+Clayey,47.00%,110,56,37,1143 mm,Andhra Pradesh,Zaid,"['Sugarcane', 'Jute']"
+Sandy Loam,22.00%,70,64,59,441 mm,Tamil Nadu,Kharif,['Chickpea']
+Black Cotton Soil,37.00%,37,87,32,682 mm,Andhra Pradesh,Rabi,"['Sorghum', 'Cotton']"
+Black Cotton Soil,59.00%,79,81,80,849 mm,Tamil Nadu,Zaid,['Cotton']
+Loamy,13.00%,36,80,57,842 mm,Andhra Pradesh,Rabi,['Maize']
+Loamy,49.00%,40,24,49,1062 mm,Punjab,Rabi,"['Barley', 'Wheat', 'Maize']"
+Silty Loam,27.00%,75,76,42,796 mm,Maharashtra,Rabi,"['Pulses', 'Mustard']"
+Loamy,36.00%,76,40,88,1019 mm,Maharashtra,Zaid,['Maize']
+Sandy Loam,50.00%,32,77,62,745 mm,Andhra Pradesh,Zaid,"['Chickpea', 'Cotton', 'Groundnut']"
+Clayey,59.00%,118,45,92,423 mm,Andhra Pradesh,Rabi,"['Rice', 'Sugarcane']"
+Clayey,20.00%,90,88,46,392 mm,Tamil Nadu,Zaid,"['Sugarcane', 'Jute', 'Rice']"
+Silty Loam,47.00%,114,89,31,382 mm,Karnataka,Rabi,"['Mustard', 'Vegetables']"
+Clayey,51.00%,91,39,47,1132 mm,Tamil Nadu,Rabi,['Jute']
+Black Cotton Soil,31.00%,64,34,29,712 mm,Andhra Pradesh,Zaid,"['Cotton', 'Sorghum']"
+Loamy,36.00%,70,34,70,1154 mm,Odisha,Zaid,['Wheat']
+Silty Loam,47.00%,66,47,48,886 mm,Andhra Pradesh,Kharif,"['Pulses', 'Mustard']"
+Silty Loam,35.00%,46,31,91,863 mm,Andhra Pradesh,Zaid,"['Pulses', 'Mustard']"
+Black Cotton Soil,42.00%,72,77,73,1052 mm,Odisha,Rabi,['Soybean']
+Black Cotton Soil,39.00%,40,26,56,787 mm,Punjab,Zaid,"['Cotton', 'Soybean']"
+Loamy,52.00%,54,66,84,879 mm,Odisha,Kharif,['Wheat']
+Loamy,38.00%,45,82,50,1151 mm,West Bengal,Zaid,['Maize']
+Sandy Loam,21.00%,60,83,29,936 mm,Karnataka,Rabi,"['Cotton', 'Chickpea']"
+Sandy Loam,25.00%,68,84,26,660 mm,West Bengal,Zaid,"['Groundnut', 'Cotton']"
+Silty Loam,46.00%,78,78,80,354 mm,Odisha,Zaid,"['Vegetables', 'Pulses', 'Mustard']"
+Clayey,18.00%,115,75,85,313 mm,West Bengal,Kharif,['Sugarcane']
+Silty Loam,26.00%,89,44,44,834 mm,Andhra Pradesh,Rabi,"['Mustard', 'Pulses']"
+Silty Loam,34.00%,71,78,98,1102 mm,Maharashtra,Rabi,"['Vegetables', 'Pulses']"
+Silty Loam,26.00%,60,86,44,1074 mm,Tamil Nadu,Rabi,"['Pulses', 'Vegetables', 'Mustard']"
+Black Cotton Soil,50.00%,75,33,110,358 mm,Andhra Pradesh,Kharif,"['Soybean', 'Sorghum']"
+Black Cotton Soil,48.00%,120,63,52,907 mm,Tamil Nadu,Zaid,"['Cotton', 'Soybean']"
+Clayey,56.00%,51,22,87,1011 mm,Tamil Nadu,Kharif,"['Jute', 'Rice']"
+Sandy Loam,18.00%,82,81,108,835 mm,West Bengal,Rabi,"['Groundnut', 'Cotton']"
+Black Cotton Soil,43.00%,87,84,66,305 mm,Odisha,Kharif,"['Sorghum', 'Cotton', 'Soybean']"
+Sandy Loam,19.00%,34,22,74,954 mm,Karnataka,Kharif,['Groundnut']
+Sandy Loam,39.00%,52,53,23,873 mm,Odisha,Zaid,"['Chickpea', 'Cotton', 'Groundnut']"
+Sandy Loam,55.00%,67,74,97,519 mm,Punjab,Kharif,"['Chickpea', 'Cotton']"
+Clayey,52.00%,53,76,100,590 mm,Odisha,Zaid,"['Sugarcane', 'Jute', 'Rice']"
+Loamy,37.00%,102,47,69,835 mm,West Bengal,Zaid,"['Barley', 'Wheat', 'Maize']"
+Loamy,41.00%,84,78,52,637 mm,Punjab,Rabi,"['Maize', 'Barley']"
+Loamy,56.00%,110,29,100,483 mm,Punjab,Zaid,['Maize']
+Black Cotton Soil,37.00%,39,45,103,321 mm,Odisha,Rabi,['Cotton']
+Clayey,51.00%,96,22,98,819 mm,Punjab,Kharif,['Sugarcane']
+Clayey,12.00%,106,28,55,770 mm,Punjab,Kharif,"['Rice', 'Jute', 'Sugarcane']"
+Black Cotton Soil,25.00%,85,25,75,719 mm,Andhra Pradesh,Rabi,['Sorghum']
+Black Cotton Soil,23.00%,40,58,34,1153 mm,Odisha,Rabi,"['Sorghum', 'Cotton']"
+Sandy Loam,56.00%,38,59,70,607 mm,Andhra Pradesh,Rabi,['Cotton']
+Silty Loam,24.00%,43,77,41,357 mm,Odisha,Rabi,['Pulses']
+Black Cotton Soil,21.00%,117,32,100,514 mm,Andhra Pradesh,Rabi,"['Soybean', 'Sorghum']"
+Sandy Loam,13.00%,98,51,79,473 mm,West Bengal,Rabi,"['Groundnut', 'Chickpea']"
+Sandy Loam,12.00%,66,62,110,682 mm,Punjab,Kharif,"['Groundnut', 'Chickpea', 'Cotton']"
+Sandy Loam,54.00%,82,68,29,897 mm,Odisha,Rabi,"['Groundnut', 'Chickpea']"
+Loamy,32.00%,70,65,52,322 mm,Tamil Nadu,Rabi,"['Barley', 'Maize']"
+Clayey,54.00%,74,62,57,815 mm,Maharashtra,Zaid,"['Sugarcane', 'Rice']"
+Clayey,15.00%,120,67,110,380 mm,Maharashtra,Kharif,"['Jute', 'Rice', 'Sugarcane']"
+Loamy,21.00%,97,60,90,546 mm,Andhra Pradesh,Rabi,"['Wheat', 'Barley', 'Maize']"
+Clayey,32.00%,114,76,25,1185 mm,Punjab,Zaid,"['Sugarcane', 'Jute', 'Rice']"
+Loamy,13.00%,70,51,89,554 mm,Punjab,Kharif,"['Barley', 'Maize']"
+Sandy Loam,21.00%,115,42,85,912 mm,Punjab,Kharif,"['Cotton', 'Groundnut', 'Chickpea']"
+Clayey,56.00%,32,23,64,588 mm,Odisha,Kharif,['Jute']
+Clayey,57.00%,74,51,44,510 mm,West Bengal,Kharif,['Sugarcane']
+Black Cotton Soil,59.00%,114,65,44,988 mm,Odisha,Kharif,['Sorghum']
+Clayey,31.00%,31,24,75,889 mm,Tamil Nadu,Rabi,"['Jute', 'Sugarcane']"
+Clayey,34.00%,95,75,24,1088 mm,Tamil Nadu,Zaid,"['Rice', 'Sugarcane']"
+Clayey,31.00%,95,78,96,1171 mm,Odisha,Kharif,['Jute']
+Clayey,17.00%,115,82,68,724 mm,Odisha,Zaid,"['Jute', 'Sugarcane', 'Rice']"
+Silty Loam,55.00%,115,38,68,651 mm,Punjab,Rabi,"['Vegetables', 'Pulses']"
+Black Cotton Soil,32.00%,60,38,42,958 mm,Maharashtra,Rabi,['Soybean']
+Loamy,44.00%,109,85,60,617 mm,Maharashtra,Zaid,"['Maize', 'Barley', 'Wheat']"
+Black Cotton Soil,11.00%,116,50,76,788 mm,Punjab,Kharif,"['Sorghum', 'Soybean']"
+Sandy Loam,11.00%,75,51,96,961 mm,West Bengal,Kharif,"['Cotton', 'Groundnut', 'Chickpea']"
+Silty Loam,37.00%,50,76,83,1030 mm,West Bengal,Rabi,"['Mustard', 'Vegetables', 'Pulses']"
+Silty Loam,10.00%,65,48,69,498 mm,Punjab,Zaid,"['Mustard', 'Vegetables']"
+Loamy,33.00%,98,74,24,514 mm,Karnataka,Zaid,['Barley']
+Silty Loam,28.00%,92,44,40,777 mm,Odisha,Rabi,"['Mustard', 'Vegetables', 'Pulses']"
+Black Cotton Soil,30.00%,77,60,62,925 mm,Karnataka,Kharif,"['Soybean', 'Cotton']"
+Silty Loam,56.00%,54,27,37,490 mm,Maharashtra,Kharif,['Mustard']
+Loamy,16.00%,40,63,41,398 mm,Karnataka,Zaid,"['Barley', 'Maize', 'Wheat']"
+Silty Loam,56.00%,33,57,21,1188 mm,Tamil Nadu,Rabi,['Pulses']
+Black Cotton Soil,28.00%,105,89,31,469 mm,Maharashtra,Rabi,"['Cotton', 'Sorghum', 'Soybean']"
+Black Cotton Soil,31.00%,70,39,47,458 mm,Maharashtra,Zaid,"['Sorghum', 'Soybean']"
+Sandy Loam,31.00%,52,52,67,766 mm,Odisha,Zaid,"['Groundnut', 'Chickpea', 'Cotton']"
+Silty Loam,10.00%,118,46,55,981 mm,Maharashtra,Zaid,"['Vegetables', 'Pulses', 'Mustard']"
+Clayey,30.00%,36,56,81,855 mm,Karnataka,Rabi,"['Jute', 'Sugarcane', 'Rice']"
+Loamy,13.00%,82,28,53,474 mm,Andhra Pradesh,Kharif,"['Maize', 'Barley', 'Wheat']"
+Silty Loam,38.00%,62,76,67,830 mm,Karnataka,Rabi,"['Vegetables', 'Pulses']"
+Black Cotton Soil,17.00%,101,29,33,309 mm,West Bengal,Zaid,['Cotton']
+Loamy,32.00%,43,25,54,921 mm,Punjab,Zaid,"['Wheat', 'Barley']"
+Silty Loam,24.00%,78,80,71,733 mm,West Bengal,Rabi,"['Pulses', 'Mustard']"
+Loamy,20.00%,34,21,90,529 mm,Karnataka,Zaid,['Barley']
+Black Cotton Soil,13.00%,114,32,89,1037 mm,Karnataka,Rabi,"['Cotton', 'Soybean']"
+Clayey,49.00%,66,22,107,1008 mm,Karnataka,Kharif,['Jute']
+Sandy Loam,20.00%,77,76,70,694 mm,Tamil Nadu,Kharif,"['Chickpea', 'Groundnut', 'Cotton']"
+Sandy Loam,15.00%,88,41,32,866 mm,Karnataka,Kharif,"['Groundnut', 'Cotton']"
+Clayey,31.00%,30,75,92,786 mm,Odisha,Rabi,"['Jute', 'Rice']"
+Clayey,15.00%,119,46,47,1181 mm,Karnataka,Zaid,"['Jute', 'Rice', 'Sugarcane']"
+Loamy,24.00%,112,36,20,591 mm,Punjab,Zaid,"['Maize', 'Barley', 'Wheat']"
+Loamy,47.00%,67,21,26,1189 mm,West Bengal,Zaid,"['Barley', 'Wheat']"
+Clayey,51.00%,119,54,99,438 mm,Maharashtra,Rabi,"['Jute', 'Rice', 'Sugarcane']"
+Black Cotton Soil,39.00%,64,21,40,706 mm,Punjab,Zaid,"['Sorghum', 'Cotton']"
+Silty Loam,27.00%,105,43,88,979 mm,Maharashtra,Zaid,['Vegetables']
+Clayey,32.00%,105,85,86,726 mm,West Bengal,Kharif,"['Sugarcane', 'Jute']"
+Silty Loam,35.00%,112,23,20,686 mm,Maharashtra,Kharif,"['Mustard', 'Pulses']"
+Clayey,15.00%,36,57,88,569 mm,West Bengal,Kharif,['Jute']
+Sandy Loam,46.00%,52,78,75,652 mm,Maharashtra,Kharif,"['Chickpea', 'Groundnut', 'Cotton']"
+Clayey,41.00%,77,83,43,569 mm,Odisha,Kharif,"['Jute', 'Rice', 'Sugarcane']"
+Black Cotton Soil,17.00%,45,32,100,411 mm,Andhra Pradesh,Zaid,"['Sorghum', 'Soybean', 'Cotton']"
+Black Cotton Soil,51.00%,58,32,95,754 mm,Punjab,Rabi,"['Sorghum', 'Cotton', 'Soybean']"
+Loamy,57.00%,103,44,38,1037 mm,Odisha,Zaid,['Barley']
+Clayey,16.00%,98,86,106,885 mm,Punjab,Rabi,"['Sugarcane', 'Jute', 'Rice']"
+Sandy Loam,54.00%,35,23,92,678 mm,Maharashtra,Rabi,"['Groundnut', 'Chickpea', 'Cotton']"
+Sandy Loam,21.00%,108,64,74,586 mm,Andhra Pradesh,Kharif,"['Chickpea', 'Cotton', 'Groundnut']"
+Black Cotton Soil,44.00%,103,25,50,839 mm,Tamil Nadu,Zaid,['Soybean']
+Clayey,24.00%,77,87,21,769 mm,Tamil Nadu,Zaid,"['Jute', 'Rice']"
+Black Cotton Soil,55.00%,68,62,36,840 mm,Tamil Nadu,Rabi,"['Soybean', 'Cotton', 'Sorghum']"
+Black Cotton Soil,16.00%,56,72,103,618 mm,Punjab,Kharif,"['Cotton', 'Sorghum', 'Soybean']"
+Sandy Loam,34.00%,75,29,37,403 mm,Tamil Nadu,Zaid,"['Chickpea', 'Groundnut']"
+Sandy Loam,57.00%,41,58,103,814 mm,West Bengal,Kharif,['Groundnut']
+Silty Loam,10.00%,92,45,34,914 mm,Odisha,Rabi,"['Mustard', 'Vegetables']"
+Loamy,56.00%,99,39,24,1179 mm,Punjab,Kharif,"['Maize', 'Wheat', 'Barley']"
+Loamy,56.00%,112,44,36,731 mm,Odisha,Rabi,"['Wheat', 'Maize', 'Barley']"
+Clayey,13.00%,109,47,51,937 mm,Odisha,Kharif,"['Jute', 'Rice', 'Sugarcane']"
+Clayey,15.00%,46,80,110,998 mm,Karnataka,Rabi,"['Jute', 'Sugarcane']"
+Silty Loam,49.00%,65,84,50,653 mm,Maharashtra,Rabi,['Vegetables']
+Clayey,39.00%,98,25,24,991 mm,Maharashtra,Rabi,['Jute']
+Sandy Loam,36.00%,36,41,46,315 mm,Punjab,Kharif,['Chickpea']
+Silty Loam,19.00%,55,37,84,757 mm,West Bengal,Rabi,['Vegetables']
+Sandy Loam,21.00%,45,59,93,1110 mm,Punjab,Rabi,"['Chickpea', 'Cotton']"
+Sandy Loam,48.00%,60,56,21,389 mm,Tamil Nadu,Kharif,['Chickpea']
+Loamy,47.00%,112,86,101,674 mm,Odisha,Kharif,"['Barley', 'Maize']"
+Clayey,13.00%,100,45,81,977 mm,Odisha,Zaid,"['Jute', 'Sugarcane']"
+Clayey,42.00%,89,45,34,440 mm,West Bengal,Kharif,['Jute']
+Black Cotton Soil,28.00%,92,66,34,565 mm,Andhra Pradesh,Rabi,"['Soybean', 'Cotton']"
+Clayey,38.00%,63,82,81,633 mm,Odisha,Rabi,"['Jute', 'Rice']"
+Black Cotton Soil,59.00%,70,22,107,1151 mm,Punjab,Zaid,['Sorghum']
+Loamy,49.00%,118,50,110,1111 mm,Andhra Pradesh,Kharif,"['Barley', 'Maize']"
+Silty Loam,18.00%,66,61,48,1071 mm,Punjab,Rabi,"['Pulses', 'Mustard']"
+Sandy Loam,56.00%,119,63,83,332 mm,Maharashtra,Kharif,['Groundnut']
+Loamy,22.00%,120,72,30,437 mm,Andhra Pradesh,Kharif,['Maize']
+Loamy,23.00%,51,80,61,456 mm,Odisha,Rabi,"['Wheat', 'Maize', 'Barley']"
+Clayey,15.00%,99,89,68,416 mm,Tamil Nadu,Kharif,['Rice']
+Loamy,60.00%,34,84,59,636 mm,West Bengal,Rabi,"['Wheat', 'Barley']"
+Silty Loam,16.00%,49,51,48,780 mm,Andhra Pradesh,Rabi,"['Pulses', 'Mustard']"
+Sandy Loam,16.00%,97,38,21,1069 mm,Punjab,Rabi,"['Chickpea', 'Groundnut']"
+Black Cotton Soil,26.00%,76,65,35,832 mm,Karnataka,Kharif,"['Soybean', 'Cotton', 'Sorghum']"
+Clayey,22.00%,91,55,72,1020 mm,Punjab,Rabi,"['Jute', 'Rice', 'Sugarcane']"
+Clayey,41.00%,74,79,61,797 mm,West Bengal,Rabi,['Jute']
+Clayey,11.00%,81,74,98,775 mm,Odisha,Zaid,['Jute']
+Sandy Loam,44.00%,57,64,88,941 mm,Andhra Pradesh,Zaid,['Chickpea']
+Sandy Loam,15.00%,84,83,89,483 mm,West Bengal,Zaid,"['Chickpea', 'Groundnut', 'Cotton']"
+Clayey,36.00%,45,67,43,542 mm,Karnataka,Rabi,"['Jute', 'Sugarcane', 'Rice']"
+Black Cotton Soil,33.00%,81,53,37,373 mm,Karnataka,Zaid,"['Cotton', 'Soybean', 'Sorghum']"
+Clayey,45.00%,76,59,27,549 mm,Andhra Pradesh,Zaid,"['Rice', 'Sugarcane']"
+Silty Loam,13.00%,63,74,62,809 mm,Odisha,Rabi,"['Vegetables', 'Mustard']"
+Black Cotton Soil,52.00%,35,75,59,1049 mm,Punjab,Kharif,['Sorghum']
+Black Cotton Soil,26.00%,91,47,65,655 mm,Karnataka,Zaid,"['Soybean', 'Cotton', 'Sorghum']"
+Sandy Loam,35.00%,32,20,70,1169 mm,Andhra Pradesh,Rabi,['Chickpea']
+Black Cotton Soil,14.00%,96,22,72,565 mm,Odisha,Zaid,['Soybean']
+Clayey,33.00%,65,87,72,792 mm,Karnataka,Zaid,"['Sugarcane', 'Rice', 'Jute']"
+Black Cotton Soil,42.00%,90,71,93,813 mm,Tamil Nadu,Zaid,"['Cotton', 'Sorghum']"
+Silty Loam,40.00%,77,70,81,632 mm,Punjab,Kharif,"['Mustard', 'Pulses']"
+Clayey,11.00%,100,76,108,1026 mm,Maharashtra,Rabi,['Jute']
+Loamy,43.00%,44,79,88,1072 mm,Odisha,Rabi,"['Wheat', 'Maize', 'Barley']"
+Sandy Loam,32.00%,51,75,24,1136 mm,Odisha,Zaid,"['Chickpea', 'Groundnut', 'Cotton']"
+Sandy Loam,33.00%,61,38,103,726 mm,Karnataka,Rabi,"['Cotton', 'Chickpea']"
+Silty Loam,24.00%,61,72,63,799 mm,Maharashtra,Kharif,"['Mustard', 'Pulses', 'Vegetables']"
+Black Cotton Soil,48.00%,92,81,98,979 mm,West Bengal,Zaid,"['Cotton', 'Soybean']"
+Silty Loam,23.00%,101,26,60,943 mm,Punjab,Rabi,"['Vegetables', 'Pulses']"
+Loamy,34.00%,120,30,67,914 mm,West Bengal,Kharif,"['Wheat', 'Maize']"
+Loamy,34.00%,109,71,101,698 mm,Tamil Nadu,Kharif,"['Wheat', 'Barley', 'Maize']"
+Silty Loam,12.00%,50,82,88,777 mm,Tamil Nadu,Rabi,"['Pulses', 'Mustard', 'Vegetables']"
+Silty Loam,17.00%,82,58,56,1120 mm,Tamil Nadu,Zaid,"['Vegetables', 'Pulses', 'Mustard']"
+Silty Loam,52.00%,83,21,74,1142 mm,Tamil Nadu,Zaid,['Mustard']
+Loamy,44.00%,70,20,39,968 mm,Tamil Nadu,Zaid,"['Maize', 'Barley', 'Wheat']"
+Loamy,42.00%,53,69,66,781 mm,Andhra Pradesh,Rabi,"['Maize', 'Barley']"
+Clayey,20.00%,116,65,53,1075 mm,Tamil Nadu,Kharif,"['Jute', 'Rice', 'Sugarcane']"
+Loamy,35.00%,58,20,73,537 mm,West Bengal,Zaid,['Wheat']
+Clayey,14.00%,99,28,79,364 mm,Maharashtra,Zaid,"['Jute', 'Rice', 'Sugarcane']"
+Clayey,46.00%,93,43,98,1165 mm,Odisha,Rabi,"['Jute', 'Rice', 'Sugarcane']"
+Sandy Loam,52.00%,66,40,98,911 mm,Odisha,Rabi,['Chickpea']
+Clayey,22.00%,99,54,95,1154 mm,Maharashtra,Rabi,"['Sugarcane', 'Jute', 'Rice']"
+Black Cotton Soil,20.00%,107,82,78,542 mm,Andhra Pradesh,Kharif,['Soybean']
+Silty Loam,26.00%,106,78,96,332 mm,Andhra Pradesh,Kharif,['Mustard']
+Silty Loam,16.00%,35,72,85,927 mm,West Bengal,Zaid,"['Mustard', 'Pulses', 'Vegetables']"
+Sandy Loam,58.00%,118,82,59,903 mm,Odisha,Kharif,['Cotton']
+Sandy Loam,36.00%,80,61,81,626 mm,Andhra Pradesh,Rabi,"['Chickpea', 'Groundnut']"
+Clayey,17.00%,107,86,100,319 mm,West Bengal,Kharif,['Rice']
+Loamy,59.00%,101,52,65,987 mm,Odisha,Zaid,"['Wheat', 'Maize']"
+Loamy,43.00%,31,32,92,410 mm,Tamil Nadu,Rabi,"['Maize', 'Wheat']"
+Sandy Loam,33.00%,94,73,110,630 mm,Odisha,Kharif,"['Cotton', 'Groundnut', 'Chickpea']"
+Silty Loam,55.00%,32,74,38,437 mm,Karnataka,Zaid,"['Mustard', 'Vegetables']"
+Black Cotton Soil,31.00%,57,90,45,1031 mm,Odisha,Zaid,"['Sorghum', 'Cotton']"
+Sandy Loam,57.00%,52,67,94,723 mm,Andhra Pradesh,Zaid,"['Cotton', 'Chickpea']"
+Black Cotton Soil,43.00%,64,21,81,1053 mm,Andhra Pradesh,Kharif,"['Sorghum', 'Soybean', 'Cotton']"
+Black Cotton Soil,32.00%,102,31,23,1076 mm,Odisha,Rabi,"['Soybean', 'Cotton', 'Sorghum']"
+Black Cotton Soil,58.00%,70,32,20,717 mm,Odisha,Kharif,"['Cotton', 'Soybean']"
+Loamy,54.00%,36,34,36,836 mm,West Bengal,Kharif,"['Barley', 'Wheat', 'Maize']"
+Sandy Loam,21.00%,40,41,77,717 mm,Karnataka,Zaid,"['Groundnut', 'Chickpea', 'Cotton']"
+Sandy Loam,55.00%,52,55,98,890 mm,West Bengal,Rabi,"['Chickpea', 'Cotton']"
+Sandy Loam,21.00%,91,33,48,717 mm,Odisha,Rabi,"['Chickpea', 'Groundnut']"
+Silty Loam,48.00%,106,41,65,332 mm,Odisha,Rabi,"['Pulses', 'Vegetables', 'Mustard']"
+Loamy,44.00%,72,82,45,866 mm,Tamil Nadu,Zaid,"['Barley', 'Maize', 'Wheat']"
+Silty Loam,39.00%,36,42,25,939 mm,Karnataka,Rabi,['Mustard']
+Silty Loam,60.00%,58,47,24,789 mm,Punjab,Rabi,"['Vegetables', 'Pulses', 'Mustard']"
+Clayey,53.00%,113,88,87,972 mm,Tamil Nadu,Rabi,"['Rice', 'Sugarcane']"
+Silty Loam,24.00%,35,34,30,978 mm,Maharashtra,Rabi,"['Pulses', 'Mustard']"
+Silty Loam,24.00%,117,53,72,949 mm,Maharashtra,Kharif,['Mustard']
+Sandy Loam,37.00%,38,72,48,705 mm,Karnataka,Kharif,"['Chickpea', 'Groundnut', 'Cotton']"
+Clayey,47.00%,35,37,31,624 mm,Maharashtra,Kharif,"['Rice', 'Jute', 'Sugarcane']"
+Loamy,30.00%,69,41,67,497 mm,Andhra Pradesh,Zaid,"['Wheat', 'Barley', 'Maize']"
+Sandy Loam,10.00%,30,42,83,1052 mm,West Bengal,Kharif,['Groundnut']
+Loamy,19.00%,43,39,71,1039 mm,Karnataka,Zaid,"['Maize', 'Wheat', 'Barley']"
+Black Cotton Soil,32.00%,68,37,80,550 mm,Odisha,Rabi,"['Sorghum', 'Cotton']"
+Sandy Loam,10.00%,75,79,108,334 mm,Odisha,Kharif,"['Cotton', 'Groundnut', 'Chickpea']"
+Black Cotton Soil,13.00%,114,63,77,893 mm,West Bengal,Kharif,"['Sorghum', 'Cotton']"
+Silty Loam,12.00%,51,82,20,942 mm,Tamil Nadu,Rabi,"['Vegetables', 'Pulses']"
+Silty Loam,49.00%,97,85,31,553 mm,Tamil Nadu,Kharif,"['Vegetables', 'Pulses', 'Mustard']"
+Loamy,45.00%,94,47,88,638 mm,Maharashtra,Kharif,"['Barley', 'Maize']"
+Loamy,25.00%,36,29,95,333 mm,Tamil Nadu,Kharif,['Wheat']
+Sandy Loam,59.00%,41,38,54,344 mm,Punjab,Rabi,"['Cotton', 'Groundnut', 'Chickpea']"
+Black Cotton Soil,13.00%,86,57,89,1102 mm,Punjab,Kharif,['Sorghum']
+Black Cotton Soil,23.00%,113,32,74,907 mm,West Bengal,Zaid,['Cotton']
+Sandy Loam,34.00%,95,78,44,362 mm,West Bengal,Kharif,"['Groundnut', 'Chickpea', 'Cotton']"
+Black Cotton Soil,59.00%,30,71,78,325 mm,West Bengal,Zaid,"['Sorghum', 'Soybean', 'Cotton']"
+Sandy Loam,26.00%,65,88,56,1001 mm,Odisha,Rabi,['Cotton']
+Loamy,55.00%,110,56,40,649 mm,Maharashtra,Zaid,"['Barley', 'Maize', 'Wheat']"
+Sandy Loam,25.00%,79,85,30,505 mm,Odisha,Kharif,"['Cotton', 'Groundnut', 'Chickpea']"
+Clayey,26.00%,58,33,54,519 mm,Karnataka,Rabi,['Sugarcane']
+Loamy,39.00%,73,59,107,402 mm,Maharashtra,Rabi,"['Maize', 'Barley', 'Wheat']"
+Loamy,31.00%,100,53,38,1039 mm,Tamil Nadu,Zaid,['Barley']
+Loamy,18.00%,39,32,86,390 mm,Odisha,Kharif,['Wheat']
+Sandy Loam,26.00%,98,49,48,652 mm,Andhra Pradesh,Rabi,"['Cotton', 'Chickpea', 'Groundnut']"
+Loamy,33.00%,96,88,40,1037 mm,Karnataka,Rabi,"['Maize', 'Barley', 'Wheat']"
+Silty Loam,33.00%,86,44,105,416 mm,Andhra Pradesh,Kharif,['Vegetables']
+Black Cotton Soil,59.00%,67,64,37,617 mm,Punjab,Zaid,"['Sorghum', 'Soybean', 'Cotton']"
+Clayey,34.00%,45,36,64,956 mm,Andhra Pradesh,Kharif,['Rice']
+Sandy Loam,15.00%,94,70,79,1020 mm,Karnataka,Zaid,['Chickpea']
+Black Cotton Soil,54.00%,103,33,29,776 mm,West Bengal,Zaid,"['Sorghum', 'Soybean']"
+Loamy,42.00%,62,48,74,884 mm,Odisha,Zaid,"['Barley', 'Maize', 'Wheat']"
+Black Cotton Soil,36.00%,48,70,56,931 mm,Punjab,Kharif,['Soybean']
+Sandy Loam,51.00%,84,71,94,1032 mm,Maharashtra,Zaid,['Cotton']
+Loamy,12.00%,44,37,64,487 mm,West Bengal,Zaid,"['Barley', 'Maize', 'Wheat']"
+Clayey,59.00%,89,88,37,995 mm,Odisha,Zaid,"['Rice', 'Sugarcane', 'Jute']"
+Black Cotton Soil,16.00%,94,70,29,1114 mm,Maharashtra,Kharif,"['Soybean', 'Sorghum', 'Cotton']"
+Sandy Loam,46.00%,94,25,78,957 mm,Maharashtra,Kharif,['Chickpea']
+Sandy Loam,54.00%,115,39,27,1098 mm,Odisha,Kharif,['Chickpea']
+Loamy,12.00%,96,80,103,576 mm,Punjab,Rabi,"['Barley', 'Maize']"
+Sandy Loam,31.00%,46,90,88,1015 mm,Karnataka,Kharif,['Chickpea']
+Silty Loam,37.00%,115,73,27,907 mm,Karnataka,Rabi,"['Pulses', 'Vegetables', 'Mustard']"
+Black Cotton Soil,21.00%,84,56,75,1137 mm,Odisha,Rabi,"['Sorghum', 'Soybean', 'Cotton']"
+Sandy Loam,58.00%,40,46,84,439 mm,Punjab,Zaid,['Cotton']
+Clayey,35.00%,96,47,94,602 mm,Andhra Pradesh,Kharif,"['Rice', 'Sugarcane', 'Jute']"
+Sandy Loam,38.00%,39,73,20,1181 mm,Tamil Nadu,Zaid,['Chickpea']
+Loamy,40.00%,74,55,100,559 mm,Odisha,Zaid,"['Barley', 'Wheat']"
+Sandy Loam,40.00%,58,39,105,696 mm,Andhra Pradesh,Rabi,"['Groundnut', 'Cotton', 'Chickpea']"
+Clayey,13.00%,97,83,21,777 mm,Tamil Nadu,Zaid,"['Sugarcane', 'Rice', 'Jute']"
+Clayey,12.00%,97,49,86,313 mm,Odisha,Kharif,"['Sugarcane', 'Jute']"
+Silty Loam,45.00%,61,89,38,800 mm,Punjab,Zaid,['Pulses']
+Silty Loam,48.00%,117,36,26,640 mm,West Bengal,Rabi,"['Vegetables', 'Pulses', 'Mustard']"
+Black Cotton Soil,56.00%,38,62,71,1023 mm,Maharashtra,Rabi,"['Sorghum', 'Soybean', 'Cotton']"
+Loamy,59.00%,62,68,21,578 mm,Tamil Nadu,Rabi,['Wheat']
+Silty Loam,59.00%,98,25,103,988 mm,Odisha,Zaid,"['Mustard', 'Pulses']"
+Clayey,36.00%,105,84,83,1026 mm,Andhra Pradesh,Kharif,"['Rice', 'Sugarcane']"
+Silty Loam,51.00%,96,37,65,788 mm,Karnataka,Kharif,['Vegetables']
+Silty Loam,26.00%,45,71,100,898 mm,West Bengal,Kharif,"['Vegetables', 'Mustard']"
+Silty Loam,53.00%,34,70,71,785 mm,Andhra Pradesh,Kharif,"['Pulses', 'Mustard', 'Vegetables']"
+Silty Loam,29.00%,104,41,30,734 mm,Andhra Pradesh,Rabi,"['Pulses', 'Vegetables', 'Mustard']"
+Silty Loam,26.00%,119,57,47,1105 mm,Karnataka,Zaid,['Mustard']
+Black Cotton Soil,25.00%,69,32,103,407 mm,Andhra Pradesh,Kharif,"['Soybean', 'Sorghum', 'Cotton']"
+Clayey,27.00%,50,69,33,337 mm,West Bengal,Rabi,"['Sugarcane', 'Jute']"
+Black Cotton Soil,58.00%,36,78,91,506 mm,Punjab,Rabi,['Soybean']
+Sandy Loam,20.00%,90,85,51,309 mm,Tamil Nadu,Zaid,"['Cotton', 'Chickpea']"
+Clayey,54.00%,52,56,71,1146 mm,Karnataka,Rabi,"['Jute', 'Rice']"
+Clayey,17.00%,38,46,68,382 mm,West Bengal,Kharif,['Sugarcane']
+Black Cotton Soil,44.00%,100,52,41,311 mm,Maharashtra,Zaid,['Soybean']
+Sandy Loam,47.00%,79,31,41,1150 mm,Tamil Nadu,Rabi,"['Chickpea', 'Cotton']"
+Clayey,33.00%,33,25,89,765 mm,Punjab,Rabi,"['Rice', 'Jute']"
+Sandy Loam,26.00%,34,86,91,423 mm,Maharashtra,Zaid,"['Chickpea', 'Cotton', 'Groundnut']"
+Clayey,11.00%,96,89,57,688 mm,Odisha,Rabi,['Sugarcane']
+Black Cotton Soil,30.00%,86,32,42,765 mm,West Bengal,Rabi,"['Soybean', 'Cotton', 'Sorghum']"
+Sandy Loam,52.00%,110,30,72,928 mm,Karnataka,Kharif,"['Chickpea', 'Cotton']"
+Sandy Loam,46.00%,76,61,36,717 mm,Andhra Pradesh,Kharif,"['Cotton', 'Groundnut', 'Chickpea']"
+Sandy Loam,24.00%,102,43,40,346 mm,Punjab,Zaid,"['Cotton', 'Groundnut', 'Chickpea']"
+Loamy,13.00%,96,48,106,1154 mm,West Bengal,Kharif,"['Barley', 'Maize']"
+Silty Loam,30.00%,120,87,80,994 mm,Maharashtra,Rabi,"['Mustard', 'Pulses', 'Vegetables']"
+Loamy,24.00%,116,50,70,1140 mm,Andhra Pradesh,Rabi,"['Barley', 'Maize', 'Wheat']"
+Loamy,12.00%,49,25,87,946 mm,Maharashtra,Zaid,"['Maize', 'Wheat']"
+Silty Loam,34.00%,94,64,26,804 mm,Maharashtra,Zaid,"['Vegetables', 'Pulses', 'Mustard']"
+Silty Loam,11.00%,88,50,23,921 mm,Karnataka,Rabi,"['Vegetables', 'Mustard']"
+Black Cotton Soil,56.00%,37,54,83,544 mm,Punjab,Kharif,['Sorghum']
+Clayey,57.00%,48,29,77,794 mm,West Bengal,Kharif,['Sugarcane']
+Sandy Loam,53.00%,43,71,93,825 mm,Tamil Nadu,Zaid,['Groundnut']
+Silty Loam,22.00%,49,75,81,783 mm,Punjab,Rabi,"['Mustard', 'Pulses', 'Vegetables']"
+Sandy Loam,49.00%,69,34,68,603 mm,Odisha,Zaid,"['Cotton', 'Groundnut']"
+Sandy Loam,43.00%,114,82,57,885 mm,Punjab,Zaid,"['Groundnut', 'Cotton', 'Chickpea']"
+Clayey,40.00%,92,30,21,932 mm,Andhra Pradesh,Zaid,"['Sugarcane', 'Rice', 'Jute']"
+Black Cotton Soil,42.00%,80,59,52,661 mm,Andhra Pradesh,Rabi,"['Soybean', 'Sorghum', 'Cotton']"
+Loamy,12.00%,92,56,20,1191 mm,Andhra Pradesh,Zaid,"['Wheat', 'Barley', 'Maize']"
+Silty Loam,36.00%,75,45,95,1047 mm,West Bengal,Kharif,['Vegetables']
+Loamy,58.00%,51,61,77,896 mm,Maharashtra,Rabi,"['Barley', 'Wheat']"
+Loamy,55.00%,72,21,109,1079 mm,Odisha,Kharif,"['Wheat', 'Maize']"
+Sandy Loam,31.00%,47,52,105,404 mm,Andhra Pradesh,Kharif,"['Chickpea', 'Cotton', 'Groundnut']"
+Silty Loam,29.00%,32,33,31,406 mm,Andhra Pradesh,Zaid,['Vegetables']
+Silty Loam,11.00%,66,89,65,980 mm,Punjab,Kharif,"['Vegetables', 'Pulses']"
+Black Cotton Soil,10.00%,62,71,81,989 mm,Andhra Pradesh,Rabi,['Sorghum']
+Loamy,28.00%,47,37,42,445 mm,Maharashtra,Rabi,['Maize']
+Black Cotton Soil,19.00%,68,62,29,612 mm,Karnataka,Rabi,"['Sorghum', 'Cotton']"
+Silty Loam,43.00%,86,51,75,309 mm,Punjab,Rabi,"['Mustard', 'Vegetables']"
+Sandy Loam,52.00%,110,39,24,783 mm,Andhra Pradesh,Zaid,['Groundnut']
+Clayey,12.00%,62,56,25,1175 mm,Karnataka,Kharif,"['Sugarcane', 'Rice', 'Jute']"
+Clayey,33.00%,43,90,26,855 mm,Odisha,Kharif,['Sugarcane']
+Sandy Loam,54.00%,115,86,95,331 mm,Andhra Pradesh,Rabi,"['Chickpea', 'Groundnut']"
+Sandy Loam,18.00%,63,58,51,1149 mm,Odisha,Rabi,"['Groundnut', 'Cotton']"
+Sandy Loam,24.00%,49,35,108,1163 mm,Odisha,Kharif,"['Cotton', 'Chickpea', 'Groundnut']"
+Sandy Loam,36.00%,110,83,27,796 mm,Andhra Pradesh,Zaid,"['Groundnut', 'Chickpea', 'Cotton']"
+Loamy,30.00%,69,52,94,504 mm,Andhra Pradesh,Rabi,"['Wheat', 'Maize']"
+Sandy Loam,21.00%,57,79,109,528 mm,Maharashtra,Zaid,"['Chickpea', 'Groundnut']"
+Loamy,39.00%,120,43,60,856 mm,Odisha,Rabi,['Wheat']
+Clayey,26.00%,89,26,46,965 mm,Karnataka,Rabi,"['Sugarcane', 'Rice']"
+Sandy Loam,42.00%,117,40,95,835 mm,Andhra Pradesh,Kharif,['Groundnut']
+Sandy Loam,14.00%,37,85,81,501 mm,Karnataka,Rabi,"['Cotton', 'Groundnut']"
+Silty Loam,36.00%,114,55,104,684 mm,Andhra Pradesh,Kharif,['Pulses']
+Sandy Loam,30.00%,95,80,91,760 mm,Odisha,Zaid,['Chickpea']
+Sandy Loam,35.00%,115,33,72,357 mm,Punjab,Kharif,"['Groundnut', 'Chickpea', 'Cotton']"
+Sandy Loam,25.00%,87,54,21,816 mm,Tamil Nadu,Zaid,"['Groundnut', 'Cotton']"
+Black Cotton Soil,47.00%,112,37,56,511 mm,West Bengal,Kharif,"['Cotton', 'Soybean', 'Sorghum']"
+Silty Loam,31.00%,118,35,70,795 mm,Maharashtra,Kharif,"['Pulses', 'Vegetables', 'Mustard']"
+Clayey,22.00%,37,80,97,695 mm,Odisha,Rabi,"['Rice', 'Jute', 'Sugarcane']"
+Silty Loam,28.00%,54,44,92,816 mm,West Bengal,Rabi,"['Pulses', 'Mustard', 'Vegetables']"
+Sandy Loam,39.00%,49,45,92,873 mm,Andhra Pradesh,Rabi,['Groundnut']
+Sandy Loam,38.00%,93,39,105,340 mm,Punjab,Rabi,"['Cotton', 'Groundnut', 'Chickpea']"
+Black Cotton Soil,31.00%,79,29,99,1004 mm,Punjab,Zaid,"['Soybean', 'Sorghum', 'Cotton']"
+Silty Loam,37.00%,34,62,58,453 mm,Maharashtra,Rabi,['Mustard']
+Black Cotton Soil,53.00%,71,73,71,1022 mm,Andhra Pradesh,Kharif,"['Cotton', 'Soybean', 'Sorghum']"
+Black Cotton Soil,16.00%,33,43,75,905 mm,Maharashtra,Rabi,"['Cotton', 'Soybean']"
+Black Cotton Soil,19.00%,50,42,81,821 mm,Maharashtra,Zaid,"['Soybean', 'Cotton']"
+Silty Loam,18.00%,46,54,109,885 mm,West Bengal,Zaid,"['Pulses', 'Mustard']"
+Sandy Loam,22.00%,119,47,42,939 mm,Tamil Nadu,Zaid,['Groundnut']
+Sandy Loam,10.00%,35,33,61,630 mm,Karnataka,Zaid,['Groundnut']
+Black Cotton Soil,26.00%,64,86,81,1066 mm,West Bengal,Zaid,"['Soybean', 'Cotton', 'Sorghum']"
+Loamy,17.00%,51,89,52,479 mm,Odisha,Kharif,"['Wheat', 'Maize']"
+Clayey,24.00%,67,73,22,1080 mm,Karnataka,Zaid,"['Rice', 'Jute']"
+Black Cotton Soil,18.00%,84,55,72,1045 mm,Odisha,Kharif,"['Soybean', 'Cotton', 'Sorghum']"
+Loamy,59.00%,51,47,20,909 mm,Tamil Nadu,Kharif,"['Barley', 'Wheat', 'Maize']"
+Clayey,17.00%,52,80,45,672 mm,Tamil Nadu,Rabi,"['Sugarcane', 'Jute']"
+Silty Loam,52.00%,75,82,55,1164 mm,Andhra Pradesh,Zaid,"['Pulses', 'Vegetables', 'Mustard']"
+Silty Loam,11.00%,99,74,95,336 mm,West Bengal,Zaid,"['Mustard', 'Pulses', 'Vegetables']"
+Black Cotton Soil,33.00%,59,57,80,680 mm,Maharashtra,Kharif,['Cotton']
+Black Cotton Soil,22.00%,73,76,33,1194 mm,Maharashtra,Kharif,['Soybean']
+Loamy,49.00%,72,40,48,1183 mm,Andhra Pradesh,Kharif,"['Wheat', 'Barley']"
+Sandy Loam,45.00%,62,41,41,814 mm,Maharashtra,Kharif,"['Groundnut', 'Chickpea', 'Cotton']"
+Loamy,12.00%,63,42,85,584 mm,Odisha,Kharif,['Maize']
+Sandy Loam,30.00%,112,73,73,651 mm,Andhra Pradesh,Zaid,['Groundnut']
+Silty Loam,40.00%,101,82,81,1100 mm,Andhra Pradesh,Zaid,"['Mustard', 'Vegetables', 'Pulses']"
+Sandy Loam,59.00%,76,46,93,520 mm,Karnataka,Kharif,"['Cotton', 'Chickpea', 'Groundnut']"
+Loamy,53.00%,88,71,92,333 mm,Andhra Pradesh,Kharif,"['Wheat', 'Maize']"
+Loamy,34.00%,51,32,66,1153 mm,West Bengal,Rabi,['Maize']
+Silty Loam,20.00%,88,52,99,743 mm,Odisha,Kharif,"['Pulses', 'Vegetables']"
+Silty Loam,29.00%,38,84,51,650 mm,Karnataka,Zaid,['Vegetables']
+Silty Loam,17.00%,67,34,101,1147 mm,Odisha,Zaid,"['Mustard', 'Vegetables', 'Pulses']"
+Black Cotton Soil,29.00%,38,31,81,1067 mm,Andhra Pradesh,Zaid,"['Sorghum', 'Cotton']"
+Silty Loam,36.00%,112,30,86,1085 mm,Punjab,Rabi,"['Vegetables', 'Mustard']"
+Loamy,55.00%,58,77,31,409 mm,Karnataka,Zaid,"['Wheat', 'Barley', 'Maize']"
+Loamy,54.00%,76,22,107,1045 mm,West Bengal,Kharif,['Maize']
+Silty Loam,15.00%,112,43,40,692 mm,Odisha,Zaid,"['Pulses', 'Mustard']"
+Silty Loam,59.00%,114,39,83,643 mm,Karnataka,Kharif,['Vegetables']
+Sandy Loam,43.00%,116,65,73,726 mm,West Bengal,Kharif,['Groundnut']
+Loamy,35.00%,65,62,90,519 mm,Tamil Nadu,Zaid,"['Maize', 'Wheat']"
+Silty Loam,20.00%,49,58,76,549 mm,West Bengal,Kharif,"['Vegetables', 'Mustard']"
+Loamy,13.00%,92,31,92,580 mm,Punjab,Kharif,"['Barley', 'Wheat', 'Maize']"
+Black Cotton Soil,11.00%,31,76,49,386 mm,Maharashtra,Rabi,['Sorghum']
+Black Cotton Soil,52.00%,108,44,52,417 mm,Odisha,Zaid,['Sorghum']
+Clayey,31.00%,85,77,77,1168 mm,West Bengal,Kharif,"['Rice', 'Sugarcane', 'Jute']"
+Sandy Loam,16.00%,106,73,60,971 mm,Odisha,Zaid,"['Chickpea', 'Groundnut', 'Cotton']"
+Black Cotton Soil,58.00%,47,35,25,340 mm,Punjab,Kharif,"['Soybean', 'Cotton', 'Sorghum']"
+Sandy Loam,41.00%,33,80,83,1049 mm,Maharashtra,Rabi,"['Chickpea', 'Cotton']"
+Silty Loam,19.00%,37,88,99,451 mm,West Bengal,Rabi,"['Pulses', 'Vegetables']"
+Loamy,35.00%,68,73,30,821 mm,Karnataka,Kharif,['Barley']
+Loamy,45.00%,62,73,31,317 mm,Karnataka,Rabi,"['Barley', 'Maize', 'Wheat']"
+Sandy Loam,46.00%,36,47,35,576 mm,West Bengal,Zaid,['Cotton']
+Black Cotton Soil,34.00%,96,27,55,558 mm,Odisha,Zaid,"['Sorghum', 'Cotton']"
+Black Cotton Soil,11.00%,95,72,77,1153 mm,Punjab,Zaid,"['Cotton', 'Sorghum', 'Soybean']"
+Silty Loam,59.00%,111,33,60,1015 mm,West Bengal,Kharif,"['Vegetables', 'Mustard', 'Pulses']"
+Black Cotton Soil,38.00%,117,33,20,839 mm,Andhra Pradesh,Rabi,"['Soybean', 'Cotton']"
+Silty Loam,31.00%,83,55,99,975 mm,Tamil Nadu,Rabi,"['Pulses', 'Vegetables']"
+Clayey,12.00%,116,60,51,945 mm,Maharashtra,Zaid,"['Sugarcane', 'Rice', 'Jute']"
+Silty Loam,27.00%,116,77,66,483 mm,Tamil Nadu,Rabi,"['Vegetables', 'Pulses', 'Mustard']"
+Silty Loam,50.00%,42,35,83,1035 mm,Karnataka,Rabi,['Pulses']
+Silty Loam,29.00%,65,65,68,796 mm,Punjab,Zaid,"['Vegetables', 'Pulses']"
+Clayey,31.00%,75,86,82,309 mm,Odisha,Kharif,"['Sugarcane', 'Jute']"
+Sandy Loam,43.00%,73,71,82,356 mm,Andhra Pradesh,Rabi,"['Cotton', 'Groundnut']"
+Silty Loam,21.00%,35,83,54,925 mm,Maharashtra,Zaid,['Pulses']
+Loamy,52.00%,44,21,89,909 mm,Odisha,Kharif,"['Wheat', 'Maize', 'Barley']"
+Silty Loam,38.00%,82,77,79,735 mm,Karnataka,Rabi,"['Mustard', 'Pulses']"
+Loamy,12.00%,102,65,53,763 mm,West Bengal,Kharif,['Barley']
+Loamy,11.00%,86,87,43,441 mm,Karnataka,Zaid,"['Barley', 'Maize']"
+Sandy Loam,54.00%,50,25,100,713 mm,Maharashtra,Kharif,"['Chickpea', 'Groundnut', 'Cotton']"
+Sandy Loam,43.00%,44,22,102,787 mm,Karnataka,Rabi,"['Groundnut', 'Cotton']"
+Sandy Loam,13.00%,79,52,26,362 mm,Punjab,Zaid,"['Groundnut', 'Cotton']"
+Silty Loam,31.00%,83,65,83,1062 mm,Karnataka,Rabi,"['Mustard', 'Vegetables', 'Pulses']"
+Silty Loam,39.00%,33,21,46,700 mm,Punjab,Rabi,"['Vegetables', 'Pulses', 'Mustard']"
+Loamy,51.00%,120,78,40,717 mm,Andhra Pradesh,Zaid,"['Maize', 'Barley', 'Wheat']"
+Silty Loam,39.00%,46,57,55,717 mm,Tamil Nadu,Zaid,"['Pulses', 'Vegetables']"
+Silty Loam,14.00%,116,43,97,968 mm,Odisha,Kharif,"['Pulses', 'Vegetables', 'Mustard']"
+Sandy Loam,17.00%,89,54,94,1129 mm,Karnataka,Kharif,"['Cotton', 'Groundnut', 'Chickpea']"
+Silty Loam,30.00%,67,86,99,647 mm,West Bengal,Zaid,"['Vegetables', 'Pulses']"
+Clayey,52.00%,38,72,24,1056 mm,Odisha,Kharif,"['Sugarcane', 'Jute', 'Rice']"
+Clayey,55.00%,102,64,101,853 mm,West Bengal,Rabi,['Rice']
+Sandy Loam,52.00%,115,27,28,451 mm,Tamil Nadu,Zaid,['Chickpea']
+Black Cotton Soil,30.00%,111,58,24,441 mm,Punjab,Kharif,['Soybean']
+Black Cotton Soil,47.00%,102,38,97,598 mm,Andhra Pradesh,Kharif,['Sorghum']
+Clayey,32.00%,91,38,62,892 mm,Maharashtra,Rabi,"['Sugarcane', 'Rice', 'Jute']"
+Sandy Loam,56.00%,44,77,85,710 mm,Odisha,Zaid,"['Cotton', 'Groundnut']"
+Clayey,13.00%,106,29,109,899 mm,Punjab,Zaid,"['Rice', 'Jute']"
+Sandy Loam,52.00%,72,76,50,692 mm,Andhra Pradesh,Zaid,"['Chickpea', 'Cotton']"
+Clayey,46.00%,68,42,34,743 mm,Karnataka,Zaid,"['Jute', 'Rice', 'Sugarcane']"
+Black Cotton Soil,59.00%,42,43,91,688 mm,Tamil Nadu,Kharif,"['Sorghum', 'Cotton', 'Soybean']"
+Black Cotton Soil,45.00%,104,50,64,891 mm,West Bengal,Zaid,"['Sorghum', 'Soybean']"
+Loamy,60.00%,97,65,77,897 mm,West Bengal,Rabi,['Wheat']
+Silty Loam,43.00%,96,75,24,1196 mm,Odisha,Zaid,"['Mustard', 'Pulses', 'Vegetables']"
+Loamy,34.00%,67,54,55,773 mm,Karnataka,Zaid,"['Wheat', 'Barley', 'Maize']"
+Clayey,31.00%,103,68,75,1181 mm,Tamil Nadu,Kharif,"['Sugarcane', 'Rice']"
+Loamy,29.00%,118,52,72,1175 mm,Karnataka,Zaid,['Wheat']
+Clayey,33.00%,104,71,108,586 mm,Tamil Nadu,Zaid,"['Sugarcane', 'Rice', 'Jute']"
+Clayey,57.00%,106,40,68,310 mm,Maharashtra,Kharif,"['Jute', 'Sugarcane', 'Rice']"
+Loamy,34.00%,83,74,43,344 mm,Andhra Pradesh,Kharif,"['Wheat', 'Maize']"
+Black Cotton Soil,18.00%,94,21,89,1082 mm,Odisha,Kharif,['Sorghum']
+Sandy Loam,35.00%,91,57,26,342 mm,Tamil Nadu,Rabi,"['Cotton', 'Groundnut']"
+Silty Loam,33.00%,32,31,95,537 mm,Tamil Nadu,Zaid,['Vegetables']
+Clayey,15.00%,97,25,52,889 mm,Tamil Nadu,Zaid,"['Rice', 'Sugarcane']"
+Sandy Loam,40.00%,88,75,71,329 mm,Andhra Pradesh,Zaid,['Cotton']
+Black Cotton Soil,24.00%,38,37,60,1152 mm,Odisha,Rabi,"['Sorghum', 'Cotton', 'Soybean']"
+Black Cotton Soil,45.00%,120,53,51,886 mm,West Bengal,Rabi,['Sorghum']
+Loamy,56.00%,53,23,99,793 mm,Andhra Pradesh,Kharif,"['Barley', 'Maize']"
+Silty Loam,15.00%,56,20,94,507 mm,West Bengal,Zaid,"['Pulses', 'Vegetables', 'Mustard']"
+Clayey,50.00%,98,87,49,328 mm,Karnataka,Zaid,['Rice']
+Loamy,53.00%,53,72,100,836 mm,Odisha,Rabi,['Maize']
+Black Cotton Soil,54.00%,90,65,56,566 mm,Andhra Pradesh,Zaid,"['Sorghum', 'Cotton', 'Soybean']"
+Clayey,55.00%,83,26,106,529 mm,Maharashtra,Rabi,['Jute']
+Silty Loam,18.00%,41,40,63,953 mm,Maharashtra,Kharif,['Mustard']
+Silty Loam,59.00%,68,27,38,1164 mm,Odisha,Rabi,"['Vegetables', 'Mustard', 'Pulses']"
+Loamy,13.00%,83,23,109,640 mm,Maharashtra,Rabi,"['Barley', 'Wheat']"
+Loamy,53.00%,49,78,67,974 mm,Tamil Nadu,Kharif,"['Maize', 'Wheat']"
+Clayey,43.00%,101,37,69,1156 mm,Punjab,Rabi,['Sugarcane']
+Silty Loam,16.00%,45,33,71,953 mm,Punjab,Kharif,['Pulses']
+Clayey,24.00%,62,63,20,759 mm,West Bengal,Rabi,"['Rice', 'Jute', 'Sugarcane']"
+Silty Loam,18.00%,112,51,92,1154 mm,Tamil Nadu,Rabi,"['Mustard', 'Vegetables']"
+Silty Loam,20.00%,50,70,93,982 mm,Karnataka,Kharif,['Mustard']
+Silty Loam,11.00%,32,38,29,482 mm,Andhra Pradesh,Zaid,['Pulses']
+Clayey,16.00%,36,22,45,793 mm,Maharashtra,Zaid,"['Jute', 'Sugarcane']"
+Silty Loam,31.00%,107,44,90,666 mm,Odisha,Rabi,"['Pulses', 'Mustard']"
+Loamy,43.00%,114,81,81,666 mm,Punjab,Zaid,"['Maize', 'Wheat']"
+Sandy Loam,17.00%,31,68,94,1000 mm,Karnataka,Kharif,['Groundnut']
+Silty Loam,36.00%,38,75,65,1098 mm,Odisha,Rabi,['Vegetables']
+Black Cotton Soil,43.00%,60,21,45,767 mm,Punjab,Zaid,['Cotton']
+Black Cotton Soil,56.00%,79,64,93,853 mm,Karnataka,Kharif,"['Soybean', 'Sorghum', 'Cotton']"
+Silty Loam,56.00%,36,29,33,894 mm,Punjab,Zaid,"['Mustard', 'Pulses']"
+Clayey,25.00%,88,76,36,926 mm,Karnataka,Kharif,['Sugarcane']
+Black Cotton Soil,19.00%,40,42,102,1177 mm,Andhra Pradesh,Kharif,"['Cotton', 'Sorghum', 'Soybean']"
+Silty Loam,29.00%,113,90,43,382 mm,Maharashtra,Zaid,"['Vegetables', 'Mustard']"
+Black Cotton Soil,22.00%,119,50,49,676 mm,Karnataka,Zaid,"['Cotton', 'Sorghum', 'Soybean']"
+Clayey,51.00%,38,82,103,592 mm,Andhra Pradesh,Rabi,['Sugarcane']
+Sandy Loam,53.00%,97,53,89,1119 mm,Odisha,Zaid,"['Chickpea', 'Groundnut', 'Cotton']"
+Silty Loam,47.00%,68,28,79,300 mm,Karnataka,Rabi,['Mustard']
+Loamy,26.00%,46,50,41,619 mm,Odisha,Kharif,"['Wheat', 'Barley']"
+Silty Loam,31.00%,47,73,98,902 mm,Tamil Nadu,Kharif,"['Vegetables', 'Pulses', 'Mustard']"
+Black Cotton Soil,39.00%,69,56,103,1117 mm,Punjab,Kharif,"['Sorghum', 'Cotton']"
+Sandy Loam,37.00%,32,74,55,779 mm,Maharashtra,Zaid,['Chickpea']
+Loamy,45.00%,50,82,61,908 mm,Maharashtra,Zaid,['Maize']
+Sandy Loam,19.00%,33,25,53,999 mm,Maharashtra,Rabi,['Groundnut']
+Loamy,35.00%,76,55,56,722 mm,Karnataka,Zaid,['Barley']
+Black Cotton Soil,46.00%,70,58,26,589 mm,Punjab,Rabi,['Sorghum']
+Sandy Loam,38.00%,82,76,64,1183 mm,Andhra Pradesh,Zaid,"['Groundnut', 'Chickpea', 'Cotton']"
+Silty Loam,47.00%,69,57,73,1143 mm,Punjab,Zaid,"['Vegetables', 'Mustard']"
+Loamy,48.00%,100,88,85,834 mm,Tamil Nadu,Rabi,['Barley']
+Loamy,53.00%,49,61,70,864 mm,Karnataka,Kharif,"['Barley', 'Wheat', 'Maize']"
+Loamy,59.00%,44,45,69,493 mm,West Bengal,Zaid,"['Maize', 'Wheat', 'Barley']"
+Black Cotton Soil,14.00%,37,58,100,427 mm,Odisha,Kharif,['Soybean']
+Clayey,11.00%,60,53,48,1024 mm,West Bengal,Kharif,"['Jute', 'Sugarcane', 'Rice']"
+Black Cotton Soil,22.00%,81,82,55,753 mm,West Bengal,Kharif,"['Soybean', 'Sorghum']"
+Sandy Loam,54.00%,61,87,75,429 mm,Tamil Nadu,Rabi,['Groundnut']
+Black Cotton Soil,33.00%,92,80,30,788 mm,Maharashtra,Rabi,"['Cotton', 'Sorghum', 'Soybean']"
+Black Cotton Soil,54.00%,32,48,71,981 mm,Karnataka,Rabi,['Cotton']
+Loamy,27.00%,52,63,86,749 mm,Maharashtra,Zaid,"['Maize', 'Barley']"
+Black Cotton Soil,16.00%,74,75,36,879 mm,Karnataka,Zaid,"['Soybean', 'Cotton', 'Sorghum']"
+Black Cotton Soil,33.00%,109,40,25,1153 mm,West Bengal,Zaid,"['Sorghum', 'Cotton']"
+Sandy Loam,29.00%,61,21,64,321 mm,Tamil Nadu,Zaid,['Chickpea']
+Clayey,23.00%,68,48,74,836 mm,Maharashtra,Kharif,"['Rice', 'Jute']"
+Black Cotton Soil,21.00%,77,76,97,471 mm,Odisha,Zaid,"['Cotton', 'Soybean']"
+Black Cotton Soil,26.00%,64,44,39,381 mm,Maharashtra,Rabi,['Sorghum']
+Black Cotton Soil,11.00%,108,20,106,790 mm,Odisha,Kharif,['Sorghum']
+Sandy Loam,24.00%,99,50,60,1046 mm,Maharashtra,Kharif,"['Cotton', 'Groundnut', 'Chickpea']"
+Sandy Loam,56.00%,81,75,71,683 mm,Odisha,Kharif,"['Groundnut', 'Chickpea']"
+Black Cotton Soil,40.00%,107,74,30,583 mm,West Bengal,Zaid,"['Soybean', 'Sorghum', 'Cotton']"
+Loamy,23.00%,76,78,98,410 mm,Maharashtra,Rabi,"['Wheat', 'Barley']"
+Loamy,36.00%,31,33,73,909 mm,Punjab,Zaid,"['Barley', 'Maize']"
+Sandy Loam,53.00%,107,80,105,872 mm,Karnataka,Zaid,['Chickpea']
+Black Cotton Soil,14.00%,49,80,80,1056 mm,Punjab,Rabi,['Soybean']
+Black Cotton Soil,21.00%,91,43,42,831 mm,Andhra Pradesh,Zaid,"['Cotton', 'Sorghum']"
+Clayey,57.00%,69,85,20,1039 mm,Odisha,Kharif,"['Jute', 'Rice']"
+Silty Loam,28.00%,50,79,20,1089 mm,Maharashtra,Rabi,"['Mustard', 'Vegetables']"
+Black Cotton Soil,16.00%,116,22,99,447 mm,Karnataka,Rabi,['Soybean']
+Black Cotton Soil,21.00%,49,51,68,469 mm,Andhra Pradesh,Rabi,"['Cotton', 'Sorghum']"
+Clayey,30.00%,111,75,23,822 mm,Karnataka,Rabi,"['Rice', 'Sugarcane', 'Jute']"
+Black Cotton Soil,54.00%,79,66,74,1093 mm,Odisha,Zaid,"['Cotton', 'Sorghum', 'Soybean']"
+Sandy Loam,26.00%,71,24,79,478 mm,West Bengal,Zaid,['Groundnut']
+Clayey,25.00%,53,52,41,1003 mm,Maharashtra,Zaid,"['Rice', 'Jute', 'Sugarcane']"
+Clayey,55.00%,82,54,71,300 mm,Odisha,Rabi,"['Jute', 'Sugarcane', 'Rice']"
+Sandy Loam,56.00%,38,60,47,339 mm,West Bengal,Rabi,"['Cotton', 'Chickpea']"
+Sandy Loam,38.00%,32,21,108,1017 mm,Punjab,Zaid,['Chickpea']
+Loamy,10.00%,107,68,23,1006 mm,Odisha,Kharif,"['Wheat', 'Maize']"
+Black Cotton Soil,15.00%,91,63,47,882 mm,Andhra Pradesh,Zaid,"['Sorghum', 'Cotton']"
+Black Cotton Soil,27.00%,85,82,55,366 mm,Karnataka,Rabi,['Sorghum']
+Loamy,29.00%,86,88,80,834 mm,Karnataka,Rabi,"['Maize', 'Barley', 'Wheat']"
+Black Cotton Soil,27.00%,101,73,107,1192 mm,Odisha,Rabi,"['Soybean', 'Sorghum']"
+Loamy,40.00%,80,69,24,426 mm,Andhra Pradesh,Zaid,"['Maize', 'Wheat', 'Barley']"
+Sandy Loam,45.00%,33,29,57,1123 mm,Karnataka,Zaid,"['Cotton', 'Chickpea']"
+Black Cotton Soil,28.00%,58,79,53,1185 mm,Punjab,Kharif,"['Cotton', 'Sorghum', 'Soybean']"
+Sandy Loam,55.00%,116,61,88,436 mm,Maharashtra,Kharif,"['Groundnut', 'Chickpea']"
+Silty Loam,43.00%,60,35,45,673 mm,Tamil Nadu,Kharif,['Pulses']
+Black Cotton Soil,52.00%,61,54,82,974 mm,Andhra Pradesh,Zaid,"['Soybean', 'Cotton']"
+Black Cotton Soil,23.00%,41,31,82,908 mm,West Bengal,Zaid,"['Soybean', 'Cotton', 'Sorghum']"
+Clayey,53.00%,61,36,58,798 mm,West Bengal,Zaid,"['Rice', 'Sugarcane', 'Jute']"
+Loamy,56.00%,82,88,56,483 mm,Karnataka,Zaid,"['Wheat', 'Barley', 'Maize']"
+Loamy,49.00%,66,87,45,1066 mm,Maharashtra,Kharif,"['Barley', 'Maize', 'Wheat']"
+Silty Loam,21.00%,78,53,54,720 mm,Odisha,Zaid,"['Pulses', 'Vegetables']"
+Sandy Loam,27.00%,65,22,101,811 mm,Andhra Pradesh,Zaid,"['Cotton', 'Groundnut', 'Chickpea']"
+Black Cotton Soil,16.00%,42,20,63,1182 mm,Karnataka,Zaid,['Soybean']
+Clayey,50.00%,67,41,77,755 mm,Odisha,Rabi,"['Sugarcane', 'Jute']"
+Clayey,20.00%,95,27,31,737 mm,Maharashtra,Kharif,"['Sugarcane', 'Jute', 'Rice']"
+Sandy Loam,13.00%,70,55,110,540 mm,Odisha,Kharif,"['Groundnut', 'Cotton', 'Chickpea']"
+Sandy Loam,26.00%,87,86,73,1072 mm,Tamil Nadu,Zaid,"['Cotton', 'Chickpea']"
+Clayey,45.00%,119,88,40,882 mm,Maharashtra,Rabi,"['Jute', 'Sugarcane', 'Rice']"
+Clayey,47.00%,94,70,32,454 mm,Tamil Nadu,Zaid,"['Jute', 'Rice', 'Sugarcane']"
+Silty Loam,24.00%,48,23,32,772 mm,West Bengal,Rabi,['Pulses']
+Silty Loam,31.00%,85,68,79,415 mm,West Bengal,Zaid,['Mustard']
+Loamy,26.00%,99,60,103,644 mm,Andhra Pradesh,Kharif,"['Wheat', 'Maize', 'Barley']"
+Loamy,38.00%,54,74,34,539 mm,West Bengal,Zaid,"['Maize', 'Wheat']"
+Black Cotton Soil,30.00%,70,76,46,382 mm,Karnataka,Rabi,['Cotton']
+Black Cotton Soil,16.00%,74,81,76,1132 mm,Punjab,Kharif,['Cotton']
+Loamy,11.00%,98,48,63,945 mm,Karnataka,Zaid,['Wheat']
+Loamy,24.00%,37,41,109,1029 mm,Andhra Pradesh,Rabi,"['Wheat', 'Barley']"
+Sandy Loam,23.00%,104,78,94,1068 mm,Karnataka,Zaid,['Chickpea']
+Loamy,16.00%,75,88,92,478 mm,Odisha,Zaid,['Wheat']
+Loamy,58.00%,34,61,64,1004 mm,West Bengal,Zaid,"['Barley', 'Maize', 'Wheat']"
+Clayey,56.00%,36,78,78,728 mm,West Bengal,Kharif,"['Rice', 'Jute', 'Sugarcane']"
+Black Cotton Soil,57.00%,75,56,22,784 mm,Andhra Pradesh,Kharif,"['Soybean', 'Cotton']"
+Clayey,26.00%,78,23,27,649 mm,West Bengal,Kharif,"['Rice', 'Jute']"
+Clayey,54.00%,55,27,27,775 mm,Andhra Pradesh,Rabi,['Sugarcane']
+Sandy Loam,48.00%,68,81,97,590 mm,Tamil Nadu,Zaid,"['Cotton', 'Groundnut']"
+Loamy,52.00%,50,30,46,664 mm,Andhra Pradesh,Rabi,['Barley']
+Loamy,48.00%,90,36,36,787 mm,Maharashtra,Rabi,['Maize']
+Clayey,14.00%,82,38,82,1129 mm,Karnataka,Kharif,['Sugarcane']
+Sandy Loam,27.00%,36,40,108,1021 mm,Tamil Nadu,Kharif,['Chickpea']
+Sandy Loam,52.00%,30,57,96,808 mm,Maharashtra,Rabi,['Cotton']
+Clayey,16.00%,119,57,32,1015 mm,Odisha,Rabi,"['Rice', 'Jute']"
+Black Cotton Soil,23.00%,80,90,27,800 mm,Odisha,Zaid,['Soybean']
+Loamy,50.00%,75,27,98,719 mm,Odisha,Rabi,"['Wheat', 'Maize']"
+Black Cotton Soil,30.00%,113,20,34,544 mm,West Bengal,Rabi,['Soybean']
+Loamy,27.00%,80,63,72,476 mm,Maharashtra,Kharif,"['Barley', 'Wheat', 'Maize']"
+Loamy,39.00%,38,84,73,1155 mm,West Bengal,Zaid,"['Wheat', 'Barley']"
+Loamy,58.00%,81,58,46,809 mm,Karnataka,Zaid,['Wheat']
+Silty Loam,51.00%,112,44,98,567 mm,West Bengal,Kharif,['Pulses']
+Black Cotton Soil,31.00%,60,79,81,610 mm,Karnataka,Zaid,['Soybean']
+Black Cotton Soil,11.00%,57,48,71,923 mm,Tamil Nadu,Zaid,"['Soybean', 'Cotton']"
+Sandy Loam,56.00%,50,80,84,1025 mm,Tamil Nadu,Kharif,['Groundnut']
+Sandy Loam,47.00%,51,45,36,335 mm,Odisha,Rabi,"['Cotton', 'Chickpea']"
+Loamy,25.00%,62,89,99,643 mm,Andhra Pradesh,Kharif,"['Barley', 'Maize']"
+Silty Loam,43.00%,113,63,30,446 mm,Karnataka,Kharif,"['Pulses', 'Vegetables']"
+Sandy Loam,43.00%,95,84,42,654 mm,West Bengal,Kharif,['Groundnut']
+Sandy Loam,24.00%,85,36,88,724 mm,Karnataka,Zaid,"['Cotton', 'Chickpea', 'Groundnut']"
+Silty Loam,33.00%,100,23,99,1094 mm,Tamil Nadu,Zaid,"['Vegetables', 'Mustard']"
+Sandy Loam,24.00%,76,59,96,826 mm,Karnataka,Kharif,['Groundnut']
+Clayey,21.00%,108,27,63,1169 mm,Tamil Nadu,Zaid,['Jute']
+Silty Loam,23.00%,58,31,93,701 mm,Maharashtra,Kharif,"['Mustard', 'Vegetables', 'Pulses']"
+Black Cotton Soil,37.00%,41,81,65,410 mm,Andhra Pradesh,Kharif,"['Sorghum', 'Soybean']"
+Sandy Loam,14.00%,50,20,65,1021 mm,Karnataka,Rabi,['Groundnut']
+Sandy Loam,20.00%,64,23,108,354 mm,Tamil Nadu,Zaid,['Cotton']
+Black Cotton Soil,17.00%,119,46,30,892 mm,Odisha,Zaid,['Sorghum']
+Loamy,32.00%,34,63,78,1117 mm,West Bengal,Zaid,"['Maize', 'Wheat']"
+Clayey,39.00%,104,63,47,499 mm,Odisha,Zaid,"['Rice', 'Jute', 'Sugarcane']"
+Loamy,19.00%,52,75,87,362 mm,Tamil Nadu,Zaid,['Barley']
+Sandy Loam,30.00%,49,88,34,544 mm,Odisha,Kharif,"['Groundnut', 'Chickpea', 'Cotton']"
+Sandy Loam,32.00%,54,23,23,659 mm,Maharashtra,Rabi,['Chickpea']
+Silty Loam,19.00%,47,90,83,860 mm,Punjab,Rabi,['Mustard']
+Sandy Loam,28.00%,75,41,89,568 mm,Punjab,Zaid,['Chickpea']
+Clayey,49.00%,100,87,72,426 mm,West Bengal,Kharif,"['Jute', 'Rice', 'Sugarcane']"
+Sandy Loam,56.00%,89,27,109,1163 mm,Tamil Nadu,Zaid,['Chickpea']
+Sandy Loam,27.00%,72,20,41,766 mm,West Bengal,Rabi,"['Cotton', 'Groundnut']"
+Black Cotton Soil,28.00%,96,24,26,338 mm,Tamil Nadu,Zaid,"['Sorghum', 'Cotton']"
+Loamy,20.00%,84,54,81,813 mm,Andhra Pradesh,Zaid,"['Barley', 'Wheat']"
+Clayey,26.00%,98,71,40,330 mm,Punjab,Kharif,['Sugarcane']
+Loamy,41.00%,91,24,104,342 mm,Odisha,Kharif,"['Maize', 'Wheat']"
+Sandy Loam,40.00%,43,82,60,778 mm,Andhra Pradesh,Rabi,"['Chickpea', 'Cotton']"
+Loamy,55.00%,37,31,39,633 mm,Odisha,Rabi,"['Maize', 'Wheat', 'Barley']"
+Clayey,53.00%,42,64,35,394 mm,West Bengal,Zaid,"['Rice', 'Jute', 'Sugarcane']"
+Clayey,25.00%,44,26,33,659 mm,Maharashtra,Kharif,"['Sugarcane', 'Jute']"
+Silty Loam,22.00%,103,42,71,740 mm,Andhra Pradesh,Rabi,"['Pulses', 'Mustard', 'Vegetables']"
+Clayey,50.00%,83,79,61,1124 mm,Andhra Pradesh,Rabi,"['Sugarcane', 'Rice']"
+Silty Loam,46.00%,57,88,99,909 mm,West Bengal,Rabi,['Mustard']
+Silty Loam,16.00%,70,46,40,732 mm,West Bengal,Zaid,"['Vegetables', 'Pulses', 'Mustard']"
+Loamy,23.00%,117,62,44,1089 mm,Andhra Pradesh,Zaid,"['Wheat', 'Barley', 'Maize']"
+Black Cotton Soil,43.00%,103,37,25,901 mm,Tamil Nadu,Zaid,"['Soybean', 'Sorghum']"
+Clayey,56.00%,48,78,50,530 mm,Punjab,Rabi,"['Rice', 'Jute']"
+Black Cotton Soil,57.00%,41,83,77,791 mm,Karnataka,Rabi,['Sorghum']
+Silty Loam,13.00%,80,74,94,841 mm,Maharashtra,Kharif,"['Mustard', 'Vegetables', 'Pulses']"
+Loamy,44.00%,120,86,58,489 mm,Andhra Pradesh,Kharif,"['Barley', 'Maize']"
+Black Cotton Soil,34.00%,79,89,41,584 mm,Punjab,Zaid,['Sorghum']
+Silty Loam,40.00%,57,86,28,654 mm,Tamil Nadu,Rabi,"['Mustard', 'Vegetables']"
+Black Cotton Soil,33.00%,100,70,89,885 mm,Punjab,Kharif,"['Soybean', 'Cotton', 'Sorghum']"
+Sandy Loam,12.00%,31,59,56,494 mm,Odisha,Rabi,['Cotton']
+Loamy,44.00%,78,59,108,884 mm,Andhra Pradesh,Zaid,"['Barley', 'Maize', 'Wheat']"
+Black Cotton Soil,12.00%,53,28,50,875 mm,Punjab,Kharif,"['Sorghum', 'Soybean']"
+Clayey,58.00%,59,45,65,687 mm,Andhra Pradesh,Zaid,['Jute']
+Black Cotton Soil,14.00%,119,84,21,719 mm,West Bengal,Zaid,['Cotton']
+Black Cotton Soil,14.00%,101,85,88,1124 mm,Karnataka,Zaid,"['Cotton', 'Sorghum', 'Soybean']"
+Loamy,18.00%,92,45,32,672 mm,Odisha,Kharif,"['Wheat', 'Maize', 'Barley']"
+Silty Loam,58.00%,35,21,93,1041 mm,Maharashtra,Kharif,"['Pulses', 'Vegetables']"
+Sandy Loam,37.00%,66,84,96,692 mm,West Bengal,Kharif,"['Cotton', 'Chickpea', 'Groundnut']"
+Loamy,25.00%,65,61,33,1146 mm,West Bengal,Kharif,"['Maize', 'Wheat']"
+Black Cotton Soil,37.00%,112,70,68,810 mm,Karnataka,Rabi,"['Cotton', 'Soybean']"
+Loamy,43.00%,88,62,40,421 mm,West Bengal,Kharif,['Barley']
+Clayey,36.00%,73,66,91,522 mm,Maharashtra,Rabi,"['Jute', 'Rice', 'Sugarcane']"
+Silty Loam,26.00%,52,27,89,1158 mm,Karnataka,Rabi,['Pulses']
+Black Cotton Soil,34.00%,115,28,40,596 mm,Punjab,Rabi,['Soybean']
+Sandy Loam,34.00%,118,73,82,499 mm,Punjab,Kharif,['Chickpea']
+Black Cotton Soil,47.00%,61,67,76,634 mm,Karnataka,Kharif,"['Sorghum', 'Cotton', 'Soybean']"
+Black Cotton Soil,32.00%,99,85,76,1132 mm,Maharashtra,Kharif,"['Sorghum', 'Cotton']"
+Black Cotton Soil,40.00%,97,35,93,750 mm,West Bengal,Zaid,['Soybean']
+Black Cotton Soil,26.00%,64,79,77,437 mm,West Bengal,Kharif,['Cotton']
+Loamy,41.00%,41,73,54,681 mm,Maharashtra,Rabi,['Barley']
+Black Cotton Soil,24.00%,83,54,51,773 mm,Tamil Nadu,Zaid,['Sorghum']
+Clayey,56.00%,90,52,20,659 mm,West Bengal,Zaid,"['Jute', 'Rice', 'Sugarcane']"
+Clayey,46.00%,86,27,70,639 mm,Tamil Nadu,Rabi,"['Sugarcane', 'Jute', 'Rice']"
+Silty Loam,53.00%,63,24,35,885 mm,West Bengal,Rabi,['Vegetables']
+Silty Loam,43.00%,40,85,55,858 mm,Punjab,Zaid,"['Mustard', 'Vegetables', 'Pulses']"
+Black Cotton Soil,18.00%,116,64,49,1113 mm,Andhra Pradesh,Rabi,"['Sorghum', 'Soybean', 'Cotton']"
+Clayey,58.00%,95,56,31,972 mm,Andhra Pradesh,Kharif,"['Jute', 'Sugarcane', 'Rice']"
+Black Cotton Soil,21.00%,31,32,107,980 mm,Andhra Pradesh,Rabi,['Sorghum']
+Black Cotton Soil,29.00%,66,58,22,627 mm,West Bengal,Zaid,"['Cotton', 'Sorghum', 'Soybean']"
+Sandy Loam,52.00%,30,49,29,411 mm,Punjab,Kharif,"['Groundnut', 'Cotton', 'Chickpea']"
+Clayey,48.00%,117,79,29,501 mm,West Bengal,Zaid,['Jute']
+Silty Loam,16.00%,34,87,64,473 mm,Odisha,Zaid,"['Vegetables', 'Pulses']"
+Loamy,23.00%,82,20,50,505 mm,West Bengal,Rabi,"['Barley', 'Wheat']"
+Silty Loam,48.00%,44,41,56,819 mm,Karnataka,Kharif,['Vegetables']
+Clayey,44.00%,67,25,33,791 mm,Punjab,Kharif,"['Rice', 'Jute']"
+Loamy,46.00%,75,62,59,349 mm,Tamil Nadu,Rabi,"['Wheat', 'Maize']"
+Silty Loam,22.00%,64,79,90,1087 mm,Maharashtra,Kharif,"['Vegetables', 'Pulses']"
+Black Cotton Soil,60.00%,44,70,22,413 mm,Karnataka,Kharif,"['Cotton', 'Soybean', 'Sorghum']"
+Silty Loam,56.00%,48,59,89,879 mm,West Bengal,Zaid,['Pulses']
+Black Cotton Soil,53.00%,91,42,62,572 mm,Karnataka,Rabi,"['Soybean', 'Cotton']"
+Clayey,46.00%,49,21,56,848 mm,Karnataka,Kharif,"['Rice', 'Sugarcane']"
+Sandy Loam,53.00%,90,63,94,993 mm,Punjab,Zaid,['Chickpea']
+Black Cotton Soil,51.00%,35,49,89,392 mm,Andhra Pradesh,Kharif,['Soybean']
+Sandy Loam,26.00%,36,47,110,458 mm,Punjab,Zaid,"['Chickpea', 'Groundnut']"
+Black Cotton Soil,31.00%,32,35,74,618 mm,Maharashtra,Kharif,"['Soybean', 'Cotton', 'Sorghum']"
+Black Cotton Soil,11.00%,83,46,102,541 mm,Punjab,Kharif,"['Cotton', 'Sorghum', 'Soybean']"
+Loamy,11.00%,54,84,42,489 mm,Karnataka,Zaid,['Maize']
+Silty Loam,52.00%,101,53,23,527 mm,Karnataka,Rabi,['Vegetables']
+Sandy Loam,59.00%,57,74,58,725 mm,Punjab,Rabi,['Cotton']
+Black Cotton Soil,20.00%,86,40,82,750 mm,Punjab,Rabi,"['Cotton', 'Sorghum', 'Soybean']"
+Clayey,49.00%,47,73,84,879 mm,West Bengal,Kharif,['Jute']
+Silty Loam,54.00%,106,33,83,648 mm,Andhra Pradesh,Rabi,"['Vegetables', 'Mustard', 'Pulses']"
+Sandy Loam,23.00%,42,45,61,701 mm,Karnataka,Rabi,"['Groundnut', 'Cotton']"
+Silty Loam,19.00%,104,34,28,491 mm,Maharashtra,Zaid,"['Pulses', 'Mustard', 'Vegetables']"
+Black Cotton Soil,31.00%,55,67,109,804 mm,Maharashtra,Rabi,"['Soybean', 'Cotton', 'Sorghum']"
+Clayey,47.00%,113,84,101,461 mm,West Bengal,Kharif,"['Rice', 'Sugarcane', 'Jute']"
+Clayey,12.00%,59,60,62,786 mm,Punjab,Kharif,['Jute']
+Loamy,38.00%,99,47,31,1140 mm,Punjab,Kharif,"['Maize', 'Barley', 'Wheat']"
+Clayey,34.00%,81,36,57,635 mm,Maharashtra,Kharif,"['Jute', 'Rice']"
+Loamy,11.00%,63,85,106,537 mm,Tamil Nadu,Zaid,"['Maize', 'Barley']"
+Loamy,22.00%,65,82,87,960 mm,Andhra Pradesh,Zaid,"['Barley', 'Maize', 'Wheat']"
+Clayey,28.00%,44,78,103,1107 mm,Andhra Pradesh,Kharif,"['Jute', 'Rice']"
+Sandy Loam,18.00%,46,49,60,953 mm,Karnataka,Rabi,['Cotton']
+Silty Loam,58.00%,45,81,78,818 mm,West Bengal,Kharif,['Mustard']
+Clayey,51.00%,94,39,61,1004 mm,Maharashtra,Zaid,"['Jute', 'Rice']"
+Sandy Loam,58.00%,79,86,38,1140 mm,Tamil Nadu,Rabi,"['Chickpea', 'Cotton']"
+Black Cotton Soil,11.00%,119,27,20,1199 mm,West Bengal,Rabi,['Sorghum']
+Sandy Loam,20.00%,108,90,24,404 mm,Punjab,Kharif,"['Chickpea', 'Groundnut', 'Cotton']"
+Sandy Loam,30.00%,52,20,94,766 mm,Maharashtra,Kharif,"['Groundnut', 'Chickpea', 'Cotton']"
+Clayey,20.00%,84,51,54,1087 mm,West Bengal,Zaid,"['Sugarcane', 'Jute']"
+Clayey,40.00%,44,20,110,982 mm,Tamil Nadu,Rabi,"['Jute', 'Sugarcane']"
+Clayey,42.00%,77,56,26,300 mm,Maharashtra,Kharif,"['Sugarcane', 'Jute', 'Rice']"
+Silty Loam,36.00%,88,28,95,1031 mm,Odisha,Rabi,"['Vegetables', 'Mustard']"
+Silty Loam,50.00%,93,56,47,1060 mm,Andhra Pradesh,Zaid,"['Pulses', 'Mustard']"
+Sandy Loam,36.00%,91,36,54,421 mm,Karnataka,Zaid,"['Groundnut', 'Cotton']"
+Loamy,34.00%,75,44,21,891 mm,Odisha,Zaid,['Wheat']
+Black Cotton Soil,43.00%,33,49,101,660 mm,West Bengal,Zaid,"['Cotton', 'Sorghum', 'Soybean']"
+Loamy,54.00%,52,24,40,456 mm,Maharashtra,Rabi,"['Maize', 'Wheat']"
+Silty Loam,52.00%,63,62,65,750 mm,Karnataka,Zaid,['Pulses']
+Black Cotton Soil,53.00%,60,74,59,321 mm,Karnataka,Zaid,"['Sorghum', 'Cotton', 'Soybean']"
+Black Cotton Soil,48.00%,34,68,57,843 mm,Odisha,Zaid,['Sorghum']
+Clayey,43.00%,57,55,44,1136 mm,West Bengal,Rabi,['Sugarcane']
+Clayey,35.00%,59,28,96,858 mm,Odisha,Kharif,['Rice']
+Black Cotton Soil,44.00%,108,33,104,424 mm,Odisha,Kharif,"['Sorghum', 'Soybean']"
+Silty Loam,58.00%,44,74,100,305 mm,Odisha,Rabi,"['Vegetables', 'Mustard', 'Pulses']"
+Black Cotton Soil,12.00%,87,42,90,383 mm,Punjab,Zaid,"['Cotton', 'Sorghum']"
+Silty Loam,10.00%,98,83,103,490 mm,Karnataka,Zaid,"['Mustard', 'Pulses', 'Vegetables']"
+Clayey,45.00%,115,46,106,714 mm,Andhra Pradesh,Kharif,['Jute']
+Clayey,39.00%,60,84,90,610 mm,Tamil Nadu,Zaid,['Rice']
+Sandy Loam,26.00%,71,52,103,541 mm,Andhra Pradesh,Zaid,"['Groundnut', 'Chickpea']"
+Black Cotton Soil,57.00%,101,70,29,754 mm,Tamil Nadu,Rabi,"['Soybean', 'Sorghum']"
+Sandy Loam,55.00%,59,40,66,749 mm,Punjab,Zaid,"['Chickpea', 'Cotton', 'Groundnut']"
+Silty Loam,16.00%,33,81,108,806 mm,Tamil Nadu,Rabi,['Vegetables']
+Clayey,21.00%,108,87,71,326 mm,Maharashtra,Rabi,"['Sugarcane', 'Rice', 'Jute']"
+Black Cotton Soil,47.00%,103,73,39,1072 mm,Tamil Nadu,Rabi,"['Cotton', 'Sorghum', 'Soybean']"
+Silty Loam,14.00%,52,58,97,1170 mm,Andhra Pradesh,Zaid,"['Pulses', 'Vegetables', 'Mustard']"
+Black Cotton Soil,25.00%,74,39,86,1071 mm,West Bengal,Rabi,"['Soybean', 'Sorghum', 'Cotton']"
+Loamy,46.00%,71,44,79,334 mm,Odisha,Zaid,['Wheat']
+Silty Loam,23.00%,66,82,56,429 mm,Maharashtra,Kharif,"['Pulses', 'Vegetables']"
+Loamy,49.00%,30,90,31,971 mm,Tamil Nadu,Rabi,"['Barley', 'Maize', 'Wheat']"
+Sandy Loam,45.00%,101,82,55,590 mm,Punjab,Kharif,['Chickpea']
+Clayey,22.00%,94,47,92,892 mm,Odisha,Zaid,['Sugarcane']
+Silty Loam,26.00%,84,74,85,996 mm,West Bengal,Zaid,['Vegetables']
+Sandy Loam,38.00%,61,33,90,483 mm,Andhra Pradesh,Zaid,"['Chickpea', 'Cotton']"
+Loamy,53.00%,38,73,103,871 mm,Odisha,Kharif,"['Barley', 'Maize']"
+Silty Loam,54.00%,94,62,88,1042 mm,Punjab,Kharif,"['Vegetables', 'Mustard', 'Pulses']"
+Loamy,34.00%,66,25,39,480 mm,West Bengal,Rabi,"['Maize', 'Barley']"
+Sandy Loam,32.00%,91,56,77,452 mm,Odisha,Rabi,['Cotton']
+Loamy,47.00%,97,88,107,303 mm,Odisha,Rabi,"['Wheat', 'Barley']"
+Black Cotton Soil,38.00%,103,61,82,323 mm,Punjab,Rabi,['Cotton']
+Black Cotton Soil,43.00%,45,73,96,1060 mm,Odisha,Kharif,"['Cotton', 'Soybean', 'Sorghum']"
+Silty Loam,59.00%,47,74,98,975 mm,Karnataka,Kharif,['Mustard']
+Black Cotton Soil,57.00%,70,35,80,668 mm,Maharashtra,Rabi,"['Sorghum', 'Cotton', 'Soybean']"
+Loamy,30.00%,114,51,68,1142 mm,Maharashtra,Kharif,['Maize']
+Sandy Loam,42.00%,46,57,73,1061 mm,Maharashtra,Zaid,['Chickpea']
+Silty Loam,17.00%,120,52,22,841 mm,Maharashtra,Kharif,"['Vegetables', 'Mustard', 'Pulses']"
+Loamy,21.00%,35,52,106,1120 mm,Maharashtra,Rabi,['Wheat']
+Silty Loam,14.00%,98,41,103,587 mm,Maharashtra,Zaid,['Vegetables']
+Black Cotton Soil,43.00%,114,60,78,1174 mm,Karnataka,Rabi,['Sorghum']
+Silty Loam,36.00%,104,68,36,1190 mm,Tamil Nadu,Rabi,"['Mustard', 'Vegetables']"
+Clayey,52.00%,105,32,35,1163 mm,Karnataka,Rabi,"['Jute', 'Sugarcane']"
+Clayey,55.00%,119,76,101,1111 mm,West Bengal,Kharif,"['Jute', 'Sugarcane']"
+Silty Loam,53.00%,52,79,78,489 mm,Punjab,Zaid,"['Vegetables', 'Pulses']"
+Black Cotton Soil,20.00%,41,67,20,1106 mm,Andhra Pradesh,Kharif,['Soybean']
+Sandy Loam,16.00%,55,39,58,747 mm,Tamil Nadu,Kharif,['Chickpea']
+Sandy Loam,41.00%,73,21,49,806 mm,Punjab,Kharif,['Chickpea']
+Sandy Loam,18.00%,89,64,100,1103 mm,Karnataka,Zaid,"['Groundnut', 'Chickpea', 'Cotton']"
+Silty Loam,23.00%,55,46,58,884 mm,Tamil Nadu,Rabi,"['Pulses', 'Vegetables']"
+Clayey,54.00%,79,84,99,825 mm,Punjab,Kharif,['Jute']
+Silty Loam,20.00%,41,51,95,1192 mm,West Bengal,Kharif,['Mustard']
+Loamy,53.00%,53,47,79,639 mm,Karnataka,Kharif,['Wheat']
+Clayey,18.00%,107,67,55,580 mm,Andhra Pradesh,Kharif,"['Sugarcane', 'Jute', 'Rice']"
+Sandy Loam,24.00%,89,76,86,417 mm,Andhra Pradesh,Kharif,"['Chickpea', 'Groundnut', 'Cotton']"
+Black Cotton Soil,19.00%,84,67,33,812 mm,Andhra Pradesh,Zaid,"['Cotton', 'Sorghum']"
+Clayey,42.00%,106,66,88,653 mm,Punjab,Zaid,"['Sugarcane', 'Rice', 'Jute']"
+Loamy,54.00%,96,70,30,590 mm,Punjab,Zaid,['Maize']
+Sandy Loam,26.00%,42,68,97,713 mm,Andhra Pradesh,Rabi,['Cotton']
+Clayey,55.00%,89,57,20,729 mm,West Bengal,Zaid,['Rice']
+Black Cotton Soil,22.00%,42,66,20,429 mm,Karnataka,Kharif,['Cotton']
+Black Cotton Soil,38.00%,45,22,65,1068 mm,Andhra Pradesh,Rabi,['Cotton']
+Silty Loam,19.00%,68,86,68,1080 mm,Maharashtra,Kharif,"['Vegetables', 'Pulses']"
+Loamy,40.00%,45,57,97,533 mm,Maharashtra,Kharif,"['Maize', 'Barley', 'Wheat']"
+Black Cotton Soil,11.00%,60,88,55,612 mm,Tamil Nadu,Rabi,"['Cotton', 'Soybean', 'Sorghum']"
+Sandy Loam,26.00%,61,20,108,825 mm,Punjab,Rabi,['Groundnut']
+Sandy Loam,24.00%,76,37,79,633 mm,Andhra Pradesh,Rabi,['Cotton']
+Silty Loam,42.00%,80,74,107,1089 mm,West Bengal,Kharif,['Mustard']
+Sandy Loam,12.00%,64,25,87,522 mm,Odisha,Rabi,"['Chickpea', 'Groundnut']"
+Clayey,22.00%,86,71,45,595 mm,West Bengal,Zaid,"['Jute', 'Rice', 'Sugarcane']"
+Silty Loam,18.00%,109,61,27,848 mm,Maharashtra,Zaid,['Pulses']
+Sandy Loam,28.00%,51,23,44,1056 mm,Odisha,Rabi,['Chickpea']
+Sandy Loam,29.00%,71,89,90,681 mm,Karnataka,Kharif,['Groundnut']
+Black Cotton Soil,46.00%,32,79,51,628 mm,Punjab,Kharif,"['Soybean', 'Cotton']"
+Sandy Loam,58.00%,103,28,44,925 mm,Odisha,Zaid,['Groundnut']
+Black Cotton Soil,37.00%,105,21,108,397 mm,Tamil Nadu,Rabi,"['Soybean', 'Sorghum']"
+Black Cotton Soil,14.00%,48,49,90,878 mm,Andhra Pradesh,Zaid,['Sorghum']
+Loamy,52.00%,30,53,33,434 mm,Punjab,Kharif,"['Wheat', 'Barley', 'Maize']"
+Clayey,27.00%,64,73,93,557 mm,Maharashtra,Rabi,"['Jute', 'Rice']"
+Clayey,29.00%,91,88,86,430 mm,Andhra Pradesh,Rabi,"['Rice', 'Sugarcane']"
+Silty Loam,33.00%,115,45,63,990 mm,Karnataka,Zaid,"['Vegetables', 'Pulses', 'Mustard']"
+Black Cotton Soil,18.00%,101,65,107,557 mm,West Bengal,Rabi,['Cotton']
+Black Cotton Soil,60.00%,38,61,97,581 mm,Punjab,Rabi,"['Soybean', 'Cotton']"
+Black Cotton Soil,35.00%,32,75,54,1025 mm,Punjab,Zaid,"['Sorghum', 'Soybean', 'Cotton']"
+Silty Loam,60.00%,59,81,76,721 mm,Karnataka,Rabi,"['Vegetables', 'Mustard', 'Pulses']"
+Clayey,44.00%,57,54,107,502 mm,Punjab,Kharif,"['Jute', 'Sugarcane', 'Rice']"
+Loamy,18.00%,83,37,51,668 mm,Punjab,Rabi,['Barley']
+Sandy Loam,41.00%,87,43,66,1124 mm,Tamil Nadu,Zaid,"['Chickpea', 'Cotton', 'Groundnut']"
+Black Cotton Soil,51.00%,56,22,22,944 mm,Andhra Pradesh,Zaid,"['Cotton', 'Sorghum']"
+Loamy,50.00%,107,49,61,329 mm,West Bengal,Zaid,['Maize']
+Silty Loam,54.00%,52,88,71,1013 mm,Odisha,Zaid,"['Mustard', 'Vegetables', 'Pulses']"
+Clayey,36.00%,50,23,31,427 mm,Tamil Nadu,Rabi,['Rice']
+Loamy,49.00%,73,67,45,1027 mm,Odisha,Kharif,"['Wheat', 'Barley', 'Maize']"
+Clayey,33.00%,86,61,21,803 mm,Andhra Pradesh,Zaid,['Sugarcane']
+Sandy Loam,19.00%,57,83,43,760 mm,West Bengal,Kharif,['Cotton']
+Silty Loam,39.00%,52,59,101,380 mm,Andhra Pradesh,Rabi,"['Vegetables', 'Mustard']"
+Silty Loam,19.00%,44,52,38,591 mm,Tamil Nadu,Zaid,"['Pulses', 'Mustard']"
+Silty Loam,60.00%,59,20,43,583 mm,Karnataka,Zaid,"['Pulses', 'Mustard', 'Vegetables']"
+Sandy Loam,54.00%,59,34,47,1073 mm,Karnataka,Kharif,"['Chickpea', 'Cotton']"
+Black Cotton Soil,44.00%,53,33,43,574 mm,Tamil Nadu,Kharif,"['Sorghum', 'Soybean']"
+Black Cotton Soil,34.00%,102,21,97,1043 mm,Karnataka,Rabi,['Soybean']
+Black Cotton Soil,38.00%,42,63,105,303 mm,Punjab,Zaid,"['Cotton', 'Soybean']"
+Clayey,20.00%,48,64,79,645 mm,Odisha,Zaid,"['Rice', 'Sugarcane']"
+Sandy Loam,48.00%,112,53,102,1178 mm,Tamil Nadu,Zaid,"['Groundnut', 'Cotton', 'Chickpea']"
+Clayey,21.00%,108,56,77,883 mm,Maharashtra,Kharif,['Jute']
+Silty Loam,10.00%,40,31,100,870 mm,Andhra Pradesh,Zaid,"['Pulses', 'Vegetables', 'Mustard']"
+Black Cotton Soil,18.00%,101,33,107,487 mm,Karnataka,Kharif,"['Sorghum', 'Soybean', 'Cotton']"
+Black Cotton Soil,53.00%,84,84,98,346 mm,Andhra Pradesh,Kharif,"['Sorghum', 'Soybean', 'Cotton']"
+Sandy Loam,37.00%,74,52,62,952 mm,Karnataka,Zaid,['Groundnut']
+Loamy,25.00%,39,75,20,1162 mm,West Bengal,Kharif,['Wheat']
+Silty Loam,33.00%,31,41,95,608 mm,Punjab,Kharif,"['Pulses', 'Mustard']"
+Loamy,42.00%,67,88,66,743 mm,Andhra Pradesh,Zaid,"['Wheat', 'Barley', 'Maize']"
+Black Cotton Soil,18.00%,84,90,82,1086 mm,West Bengal,Kharif,['Sorghum']
+Clayey,35.00%,74,76,101,815 mm,West Bengal,Kharif,['Jute']
+Silty Loam,12.00%,90,20,96,1093 mm,Tamil Nadu,Zaid,"['Mustard', 'Pulses', 'Vegetables']"
+Sandy Loam,12.00%,44,89,108,596 mm,Tamil Nadu,Kharif,['Cotton']
+Black Cotton Soil,58.00%,88,32,56,799 mm,Tamil Nadu,Zaid,"['Sorghum', 'Cotton']"
+Silty Loam,10.00%,95,23,83,685 mm,Maharashtra,Rabi,"['Mustard', 'Vegetables', 'Pulses']"
+Clayey,21.00%,91,40,41,580 mm,West Bengal,Zaid,"['Jute', 'Rice', 'Sugarcane']"
+Clayey,24.00%,48,41,62,308 mm,Odisha,Kharif,"['Jute', 'Rice']"
+Clayey,13.00%,93,49,20,370 mm,Tamil Nadu,Kharif,"['Sugarcane', 'Rice']"
+Loamy,17.00%,36,26,31,894 mm,Andhra Pradesh,Kharif,['Maize']
+Black Cotton Soil,56.00%,86,53,102,738 mm,Maharashtra,Zaid,['Sorghum']
+Black Cotton Soil,15.00%,47,31,110,586 mm,Odisha,Zaid,"['Cotton', 'Sorghum']"
+Sandy Loam,56.00%,99,29,89,1057 mm,Tamil Nadu,Rabi,"['Groundnut', 'Cotton', 'Chickpea']"
+Clayey,37.00%,34,54,110,869 mm,Andhra Pradesh,Zaid,['Sugarcane']
+Sandy Loam,45.00%,48,35,96,731 mm,Andhra Pradesh,Rabi,['Chickpea']
+Silty Loam,29.00%,41,56,110,790 mm,Tamil Nadu,Zaid,['Mustard']
+Sandy Loam,41.00%,55,28,49,728 mm,West Bengal,Kharif,"['Chickpea', 'Groundnut', 'Cotton']"
+Black Cotton Soil,38.00%,93,57,48,551 mm,Odisha,Rabi,"['Soybean', 'Cotton', 'Sorghum']"
+Silty Loam,13.00%,77,74,76,824 mm,West Bengal,Zaid,['Mustard']
+Silty Loam,30.00%,64,37,107,523 mm,Maharashtra,Zaid,['Vegetables']
+Loamy,51.00%,107,34,43,478 mm,Tamil Nadu,Kharif,"['Maize', 'Barley', 'Wheat']"
+Sandy Loam,27.00%,111,79,106,335 mm,Maharashtra,Rabi,"['Chickpea', 'Cotton']"
+Black Cotton Soil,42.00%,61,59,45,1081 mm,Karnataka,Kharif,"['Soybean', 'Cotton', 'Sorghum']"
+Clayey,26.00%,101,44,85,1195 mm,Punjab,Rabi,['Rice']
+Silty Loam,39.00%,68,90,89,499 mm,Maharashtra,Rabi,"['Mustard', 'Pulses', 'Vegetables']"
+Black Cotton Soil,15.00%,39,69,55,542 mm,Andhra Pradesh,Rabi,"['Soybean', 'Sorghum']"
+Black Cotton Soil,42.00%,89,70,73,965 mm,West Bengal,Zaid,"['Soybean', 'Sorghum', 'Cotton']"
+Silty Loam,30.00%,114,72,20,546 mm,Punjab,Rabi,"['Vegetables', 'Pulses']"
+Sandy Loam,49.00%,71,46,84,520 mm,Punjab,Zaid,"['Groundnut', 'Cotton', 'Chickpea']"
+Clayey,16.00%,58,81,79,494 mm,Maharashtra,Zaid,['Rice']
+Black Cotton Soil,12.00%,103,62,71,934 mm,Odisha,Rabi,['Soybean']
+Loamy,47.00%,70,41,80,891 mm,Maharashtra,Rabi,['Wheat']
+Loamy,24.00%,101,21,74,1065 mm,Andhra Pradesh,Zaid,['Wheat']
+Loamy,24.00%,86,50,94,700 mm,Punjab,Rabi,"['Maize', 'Wheat']"
+Clayey,11.00%,61,79,38,884 mm,Punjab,Zaid,['Rice']
+Silty Loam,45.00%,106,60,46,318 mm,Tamil Nadu,Zaid,"['Vegetables', 'Mustard']"
+Silty Loam,55.00%,66,53,49,551 mm,Karnataka,Rabi,"['Pulses', 'Mustard']"
+Clayey,58.00%,49,84,82,679 mm,Punjab,Zaid,['Jute']
+Sandy Loam,21.00%,92,68,67,398 mm,Karnataka,Kharif,"['Groundnut', 'Chickpea']"
+Black Cotton Soil,15.00%,48,58,70,1180 mm,Punjab,Zaid,"['Sorghum', 'Cotton', 'Soybean']"
+Silty Loam,11.00%,45,49,100,858 mm,Punjab,Rabi,['Mustard']
+Black Cotton Soil,44.00%,65,77,45,770 mm,Maharashtra,Kharif,"['Soybean', 'Cotton']"
+Loamy,48.00%,47,83,34,367 mm,Odisha,Kharif,"['Barley', 'Wheat', 'Maize']"
+Silty Loam,22.00%,118,34,31,335 mm,Karnataka,Kharif,"['Mustard', 'Pulses', 'Vegetables']"
+Loamy,20.00%,68,83,71,997 mm,Odisha,Rabi,"['Maize', 'Wheat', 'Barley']"
+Loamy,30.00%,50,56,93,1124 mm,Odisha,Kharif,"['Barley', 'Maize']"
+Clayey,56.00%,65,22,91,765 mm,Andhra Pradesh,Zaid,"['Sugarcane', 'Rice', 'Jute']"
+Loamy,54.00%,104,44,68,1134 mm,Karnataka,Zaid,"['Wheat', 'Maize']"
+Sandy Loam,50.00%,63,90,100,880 mm,Maharashtra,Zaid,"['Chickpea', 'Groundnut']"
+Loamy,21.00%,55,40,69,726 mm,Odisha,Zaid,"['Barley', 'Maize', 'Wheat']"
+Sandy Loam,30.00%,71,71,25,945 mm,Tamil Nadu,Rabi,"['Chickpea', 'Cotton']"
+Black Cotton Soil,33.00%,89,47,88,1045 mm,Odisha,Zaid,['Sorghum']
+Black Cotton Soil,54.00%,103,26,76,460 mm,West Bengal,Rabi,['Sorghum']
+Clayey,24.00%,42,40,64,637 mm,Punjab,Zaid,"['Rice', 'Sugarcane', 'Jute']"
+Sandy Loam,23.00%,65,62,84,1123 mm,Punjab,Rabi,"['Chickpea', 'Cotton']"
+Clayey,19.00%,113,60,34,582 mm,Tamil Nadu,Zaid,"['Sugarcane', 'Jute']"
+Black Cotton Soil,45.00%,37,63,24,1109 mm,Maharashtra,Rabi,"['Cotton', 'Sorghum']"
+Black Cotton Soil,43.00%,112,33,66,881 mm,Karnataka,Rabi,['Sorghum']
+Loamy,56.00%,62,33,100,869 mm,Odisha,Rabi,"['Maize', 'Barley', 'Wheat']"
+Black Cotton Soil,12.00%,86,59,37,733 mm,Andhra Pradesh,Kharif,"['Soybean', 'Cotton', 'Sorghum']"
+Loamy,42.00%,108,31,88,1168 mm,Andhra Pradesh,Zaid,"['Barley', 'Maize']"
+Silty Loam,53.00%,119,45,82,455 mm,Odisha,Kharif,"['Mustard', 'Vegetables']"
+Sandy Loam,50.00%,102,41,50,981 mm,Tamil Nadu,Kharif,"['Chickpea', 'Cotton']"
+Sandy Loam,50.00%,47,47,40,705 mm,Maharashtra,Rabi,"['Chickpea', 'Groundnut', 'Cotton']"
+Loamy,16.00%,51,35,94,1198 mm,Punjab,Zaid,['Wheat']
+Clayey,42.00%,42,52,81,602 mm,Karnataka,Kharif,"['Sugarcane', 'Jute', 'Rice']"
+Sandy Loam,16.00%,39,79,39,965 mm,West Bengal,Zaid,"['Groundnut', 'Cotton']"
+Clayey,28.00%,66,58,81,302 mm,Karnataka,Rabi,['Sugarcane']
+Sandy Loam,18.00%,44,87,34,945 mm,Maharashtra,Kharif,['Groundnut']
+Loamy,11.00%,54,30,88,931 mm,Punjab,Rabi,['Barley']
+Sandy Loam,41.00%,84,64,59,1128 mm,Maharashtra,Zaid,"['Chickpea', 'Groundnut']"
+Clayey,59.00%,101,23,44,335 mm,Karnataka,Kharif,"['Jute', 'Rice']"
+Silty Loam,53.00%,58,76,77,453 mm,Odisha,Zaid,['Vegetables']
+Sandy Loam,50.00%,80,76,42,1032 mm,Karnataka,Kharif,['Groundnut']
+Silty Loam,57.00%,97,68,106,1017 mm,Karnataka,Rabi,"['Mustard', 'Pulses']"
+Black Cotton Soil,54.00%,68,46,43,975 mm,Odisha,Rabi,['Cotton']
+Clayey,25.00%,81,42,85,672 mm,Karnataka,Zaid,"['Sugarcane', 'Jute', 'Rice']"
+Clayey,30.00%,88,33,43,1071 mm,Tamil Nadu,Rabi,['Rice']
+Silty Loam,44.00%,90,34,26,487 mm,Tamil Nadu,Rabi,"['Pulses', 'Vegetables', 'Mustard']"
+Sandy Loam,54.00%,85,76,76,377 mm,Maharashtra,Rabi,"['Chickpea', 'Groundnut']"
+Silty Loam,49.00%,77,34,76,757 mm,Andhra Pradesh,Zaid,"['Mustard', 'Pulses', 'Vegetables']"
+Sandy Loam,46.00%,72,54,62,420 mm,Karnataka,Zaid,['Cotton']
+Black Cotton Soil,56.00%,45,47,74,426 mm,Odisha,Rabi,"['Sorghum', 'Cotton', 'Soybean']"
+Silty Loam,15.00%,64,72,92,388 mm,Karnataka,Rabi,"['Vegetables', 'Pulses']"
+Black Cotton Soil,45.00%,82,27,45,1089 mm,Andhra Pradesh,Rabi,['Sorghum']
+Sandy Loam,42.00%,35,68,24,1097 mm,West Bengal,Rabi,['Cotton']
+Clayey,21.00%,64,40,57,1014 mm,Punjab,Rabi,"['Jute', 'Sugarcane']"
+Sandy Loam,17.00%,108,80,36,604 mm,Maharashtra,Kharif,"['Chickpea', 'Groundnut']"
+Loamy,32.00%,101,70,31,1106 mm,Punjab,Zaid,"['Barley', 'Maize', 'Wheat']"
+Sandy Loam,10.00%,88,42,21,1117 mm,Maharashtra,Rabi,"['Chickpea', 'Groundnut']"
+Silty Loam,25.00%,74,64,77,1066 mm,West Bengal,Rabi,['Pulses']
+Clayey,41.00%,34,89,68,518 mm,Odisha,Rabi,"['Jute', 'Sugarcane']"
+Silty Loam,35.00%,92,60,54,939 mm,Punjab,Zaid,"['Mustard', 'Pulses', 'Vegetables']"
+Silty Loam,53.00%,78,29,28,483 mm,Maharashtra,Rabi,"['Mustard', 'Vegetables', 'Pulses']"
+Clayey,20.00%,49,57,62,1191 mm,Andhra Pradesh,Kharif,"['Sugarcane', 'Rice', 'Jute']"
+Loamy,35.00%,86,52,53,878 mm,Karnataka,Rabi,"['Barley', 'Maize']"
+Loamy,34.00%,72,25,88,1082 mm,Punjab,Zaid,['Wheat']
+Loamy,18.00%,74,87,77,547 mm,Andhra Pradesh,Zaid,"['Maize', 'Barley']"
+Loamy,49.00%,33,76,98,1146 mm,West Bengal,Kharif,['Barley']
+Silty Loam,37.00%,48,69,60,473 mm,Andhra Pradesh,Zaid,"['Mustard', 'Pulses', 'Vegetables']"
+Sandy Loam,16.00%,120,45,57,344 mm,Tamil Nadu,Kharif,"['Cotton', 'Chickpea']"
+Loamy,39.00%,75,41,81,799 mm,Tamil Nadu,Rabi,"['Maize', 'Wheat']"
+Clayey,38.00%,68,78,58,631 mm,Odisha,Rabi,"['Sugarcane', 'Jute']"
+Sandy Loam,20.00%,97,31,102,1143 mm,Karnataka,Zaid,"['Chickpea', 'Groundnut']"
+Silty Loam,26.00%,32,29,92,639 mm,Punjab,Kharif,['Pulses']
+Sandy Loam,25.00%,87,86,34,686 mm,Punjab,Rabi,"['Cotton', 'Groundnut']"
+Silty Loam,25.00%,101,81,36,792 mm,Karnataka,Rabi,['Mustard']
+Silty Loam,42.00%,112,74,26,362 mm,Andhra Pradesh,Kharif,"['Pulses', 'Mustard']"
+Clayey,23.00%,117,44,30,561 mm,Andhra Pradesh,Zaid,['Sugarcane']
+Black Cotton Soil,47.00%,109,23,92,448 mm,West Bengal,Zaid,"['Cotton', 'Soybean', 'Sorghum']"
+Black Cotton Soil,42.00%,82,72,34,941 mm,Maharashtra,Zaid,['Sorghum']
+Black Cotton Soil,41.00%,74,70,20,770 mm,Karnataka,Zaid,"['Soybean', 'Cotton']"
+Silty Loam,37.00%,45,34,75,513 mm,Andhra Pradesh,Kharif,['Pulses']
+Clayey,55.00%,89,29,100,931 mm,Andhra Pradesh,Zaid,"['Jute', 'Rice']"
+Loamy,52.00%,47,27,61,1181 mm,Odisha,Zaid,['Barley']
+Clayey,16.00%,40,61,104,457 mm,West Bengal,Zaid,['Sugarcane']
+Black Cotton Soil,22.00%,31,73,99,727 mm,Odisha,Kharif,"['Cotton', 'Soybean']"
+Silty Loam,27.00%,58,75,110,522 mm,Karnataka,Rabi,"['Pulses', 'Vegetables', 'Mustard']"
+Clayey,16.00%,81,37,101,703 mm,Odisha,Rabi,['Rice']
+Sandy Loam,45.00%,116,51,58,1146 mm,Punjab,Zaid,"['Cotton', 'Chickpea', 'Groundnut']"
+Black Cotton Soil,14.00%,91,83,69,704 mm,Tamil Nadu,Rabi,['Sorghum']
+Sandy Loam,19.00%,99,53,25,721 mm,Andhra Pradesh,Kharif,['Chickpea']
+Clayey,18.00%,63,45,79,794 mm,Tamil Nadu,Kharif,"['Jute', 'Rice', 'Sugarcane']"
+Loamy,49.00%,38,32,29,833 mm,Karnataka,Rabi,"['Barley', 'Maize', 'Wheat']"
+Loamy,20.00%,100,22,43,340 mm,Maharashtra,Kharif,['Maize']
+Clayey,25.00%,79,30,56,780 mm,Odisha,Zaid,['Sugarcane']
+Sandy Loam,49.00%,93,54,35,1036 mm,Punjab,Kharif,"['Groundnut', 'Cotton', 'Chickpea']"
+Clayey,28.00%,32,67,63,1093 mm,Andhra Pradesh,Zaid,"['Sugarcane', 'Rice']"
+Clayey,48.00%,39,88,98,1113 mm,Karnataka,Kharif,"['Jute', 'Rice', 'Sugarcane']"
+Loamy,54.00%,62,25,105,480 mm,Andhra Pradesh,Zaid,"['Barley', 'Maize', 'Wheat']"
+Black Cotton Soil,51.00%,71,29,37,482 mm,Tamil Nadu,Zaid,"['Cotton', 'Sorghum', 'Soybean']"
+Sandy Loam,23.00%,52,68,27,1047 mm,Tamil Nadu,Rabi,"['Chickpea', 'Cotton']"
+Silty Loam,53.00%,73,22,98,460 mm,Maharashtra,Zaid,"['Pulses', 'Mustard', 'Vegetables']"
+Clayey,14.00%,79,35,53,478 mm,West Bengal,Zaid,['Sugarcane']
+Black Cotton Soil,33.00%,86,24,33,1169 mm,Punjab,Zaid,"['Soybean', 'Cotton']"
+Loamy,29.00%,35,70,94,982 mm,Tamil Nadu,Kharif,['Barley']
+Black Cotton Soil,59.00%,60,33,39,432 mm,Odisha,Rabi,"['Sorghum', 'Cotton']"
+Loamy,31.00%,95,86,38,873 mm,Karnataka,Zaid,"['Barley', 'Wheat']"
+Black Cotton Soil,26.00%,115,59,54,410 mm,Maharashtra,Zaid,"['Sorghum', 'Soybean']"
+Black Cotton Soil,32.00%,113,35,57,452 mm,West Bengal,Kharif,"['Soybean', 'Sorghum', 'Cotton']"
+Clayey,17.00%,71,60,71,763 mm,Odisha,Rabi,['Jute']
+Silty Loam,46.00%,49,75,101,1181 mm,West Bengal,Rabi,"['Vegetables', 'Mustard', 'Pulses']"
+Sandy Loam,32.00%,32,30,60,416 mm,Punjab,Kharif,['Chickpea']
+Loamy,29.00%,80,65,56,485 mm,Karnataka,Zaid,"['Wheat', 'Maize', 'Barley']"
+Sandy Loam,37.00%,35,46,21,1194 mm,Andhra Pradesh,Zaid,"['Cotton', 'Groundnut', 'Chickpea']"
+Sandy Loam,54.00%,105,70,60,494 mm,Odisha,Zaid,"['Chickpea', 'Groundnut', 'Cotton']"
+Black Cotton Soil,16.00%,48,42,80,567 mm,Karnataka,Kharif,"['Soybean', 'Sorghum']"
+Loamy,34.00%,35,85,32,585 mm,Punjab,Kharif,"['Barley', 'Maize']"
+Black Cotton Soil,22.00%,94,42,95,325 mm,West Bengal,Kharif,['Sorghum']
+Sandy Loam,36.00%,63,60,103,416 mm,West Bengal,Zaid,['Groundnut']
+Black Cotton Soil,33.00%,100,82,71,746 mm,Odisha,Rabi,"['Cotton', 'Soybean', 'Sorghum']"
+Loamy,40.00%,35,55,64,636 mm,Odisha,Rabi,"['Maize', 'Wheat', 'Barley']"
+Silty Loam,20.00%,38,63,21,1182 mm,Karnataka,Kharif,['Pulses']
+Clayey,55.00%,31,38,46,930 mm,West Bengal,Rabi,"['Sugarcane', 'Jute', 'Rice']"
+Clayey,23.00%,75,22,72,387 mm,Punjab,Kharif,"['Rice', 'Sugarcane']"
+Silty Loam,38.00%,88,48,28,487 mm,Karnataka,Rabi,"['Vegetables', 'Pulses']"
+Loamy,33.00%,95,35,90,721 mm,Odisha,Kharif,['Barley']
+Loamy,31.00%,47,62,98,996 mm,Tamil Nadu,Kharif,['Barley']
+Black Cotton Soil,31.00%,76,86,88,643 mm,West Bengal,Rabi,"['Sorghum', 'Soybean']"
+Clayey,23.00%,53,27,84,833 mm,Odisha,Zaid,"['Rice', 'Jute', 'Sugarcane']"
+Loamy,30.00%,44,70,110,807 mm,Maharashtra,Rabi,['Barley']
+Silty Loam,16.00%,96,33,54,1063 mm,Tamil Nadu,Rabi,['Mustard']
+Clayey,21.00%,113,22,77,555 mm,Andhra Pradesh,Kharif,['Sugarcane']
+Loamy,43.00%,66,58,69,734 mm,Tamil Nadu,Zaid,"['Maize', 'Barley', 'Wheat']"
+Loamy,12.00%,55,30,71,1152 mm,Maharashtra,Rabi,['Maize']
+Black Cotton Soil,25.00%,114,68,46,1089 mm,Tamil Nadu,Rabi,"['Soybean', 'Sorghum']"
+Loamy,41.00%,47,32,30,1021 mm,Punjab,Kharif,"['Wheat', 'Barley']"
+Sandy Loam,13.00%,81,56,52,852 mm,Punjab,Kharif,"['Groundnut', 'Chickpea', 'Cotton']"
+Black Cotton Soil,52.00%,94,36,95,339 mm,Karnataka,Zaid,"['Soybean', 'Cotton']"
+Clayey,19.00%,92,65,69,962 mm,Andhra Pradesh,Kharif,"['Sugarcane', 'Jute', 'Rice']"
+Sandy Loam,43.00%,84,52,69,924 mm,Tamil Nadu,Zaid,"['Groundnut', 'Cotton']"
+Loamy,58.00%,45,66,97,919 mm,Punjab,Kharif,['Barley']
+Black Cotton Soil,48.00%,118,90,58,888 mm,Maharashtra,Rabi,['Cotton']
+Clayey,25.00%,56,32,65,364 mm,Maharashtra,Kharif,"['Jute', 'Sugarcane', 'Rice']"
+Black Cotton Soil,33.00%,52,40,43,1166 mm,Karnataka,Zaid,"['Cotton', 'Soybean', 'Sorghum']"
+Loamy,29.00%,35,72,40,432 mm,Andhra Pradesh,Zaid,['Barley']
+Sandy Loam,43.00%,63,71,59,436 mm,Odisha,Zaid,['Groundnut']
+Silty Loam,18.00%,57,56,90,428 mm,Maharashtra,Rabi,"['Pulses', 'Mustard', 'Vegetables']"
+Silty Loam,38.00%,87,24,52,438 mm,Andhra Pradesh,Zaid,"['Vegetables', 'Pulses', 'Mustard']"
+Sandy Loam,36.00%,88,86,77,817 mm,Maharashtra,Rabi,"['Chickpea', 'Groundnut', 'Cotton']"
+Loamy,56.00%,118,83,98,970 mm,Andhra Pradesh,Kharif,['Maize']
+Silty Loam,37.00%,81,65,65,428 mm,Punjab,Zaid,['Mustard']
+Loamy,54.00%,92,58,24,525 mm,Maharashtra,Rabi,"['Maize', 'Wheat']"
+Loamy,46.00%,42,70,43,965 mm,Andhra Pradesh,Kharif,"['Maize', 'Barley', 'Wheat']"
+Loamy,20.00%,76,20,48,782 mm,Punjab,Rabi,['Barley']
+Black Cotton Soil,34.00%,47,44,95,319 mm,Karnataka,Rabi,['Cotton']
+Loamy,19.00%,97,74,101,572 mm,Tamil Nadu,Rabi,"['Maize', 'Barley']"
+Loamy,34.00%,110,48,81,420 mm,Andhra Pradesh,Zaid,['Barley']
+Silty Loam,31.00%,53,56,75,838 mm,Tamil Nadu,Kharif,"['Mustard', 'Vegetables']"
+Clayey,47.00%,51,38,100,1059 mm,Punjab,Kharif,"['Sugarcane', 'Jute', 'Rice']"
+Clayey,45.00%,107,25,83,1069 mm,Odisha,Zaid,"['Jute', 'Rice', 'Sugarcane']"
+Black Cotton Soil,25.00%,77,87,50,857 mm,Maharashtra,Rabi,"['Sorghum', 'Soybean']"
+Black Cotton Soil,50.00%,115,51,64,513 mm,Tamil Nadu,Kharif,"['Sorghum', 'Soybean', 'Cotton']"
+Clayey,59.00%,97,82,23,613 mm,West Bengal,Zaid,"['Jute', 'Rice', 'Sugarcane']"
+Silty Loam,44.00%,63,34,47,1055 mm,Odisha,Zaid,['Pulses']
+Sandy Loam,25.00%,36,34,69,786 mm,Maharashtra,Rabi,['Cotton']
+Black Cotton Soil,43.00%,50,37,20,819 mm,Andhra Pradesh,Zaid,"['Sorghum', 'Soybean']"
+Loamy,15.00%,69,67,89,916 mm,Andhra Pradesh,Kharif,"['Barley', 'Wheat', 'Maize']"
+Clayey,33.00%,58,81,100,1188 mm,Maharashtra,Rabi,"['Jute', 'Sugarcane']"
+Black Cotton Soil,28.00%,69,44,66,1067 mm,West Bengal,Rabi,"['Sorghum', 'Soybean']"
+Loamy,16.00%,91,20,88,1136 mm,Maharashtra,Zaid,"['Barley', 'Wheat']"
+Clayey,39.00%,73,40,98,958 mm,Andhra Pradesh,Zaid,"['Sugarcane', 'Jute', 'Rice']"
+Sandy Loam,16.00%,108,81,77,345 mm,West Bengal,Zaid,"['Chickpea', 'Cotton', 'Groundnut']"
+Loamy,23.00%,33,85,105,556 mm,Punjab,Rabi,"['Maize', 'Wheat', 'Barley']"
+Sandy Loam,21.00%,86,76,35,1161 mm,Karnataka,Rabi,['Chickpea']
+Silty Loam,19.00%,86,70,59,372 mm,West Bengal,Kharif,"['Pulses', 'Mustard']"
+Clayey,22.00%,115,42,62,801 mm,Maharashtra,Kharif,"['Rice', 'Sugarcane', 'Jute']"
+Black Cotton Soil,14.00%,86,74,61,812 mm,Maharashtra,Kharif,"['Sorghum', 'Cotton', 'Soybean']"
+Silty Loam,48.00%,64,63,44,736 mm,Punjab,Zaid,"['Vegetables', 'Pulses', 'Mustard']"
+Black Cotton Soil,24.00%,115,79,82,917 mm,West Bengal,Zaid,['Cotton']
+Loamy,43.00%,43,83,48,532 mm,Andhra Pradesh,Zaid,"['Wheat', 'Barley', 'Maize']"
+Sandy Loam,53.00%,96,75,65,774 mm,Maharashtra,Rabi,['Cotton']
+Silty Loam,54.00%,71,26,99,767 mm,Andhra Pradesh,Kharif,"['Pulses', 'Vegetables']"
+Clayey,58.00%,86,72,45,936 mm,Karnataka,Rabi,['Sugarcane']
+Silty Loam,52.00%,92,34,42,486 mm,Odisha,Kharif,['Mustard']
+Clayey,30.00%,64,20,89,741 mm,Maharashtra,Zaid,"['Rice', 'Sugarcane', 'Jute']"
+Clayey,24.00%,96,78,23,441 mm,Andhra Pradesh,Zaid,"['Sugarcane', 'Rice']"
+Sandy Loam,57.00%,54,90,92,1199 mm,Odisha,Zaid,"['Chickpea', 'Cotton']"
+Clayey,55.00%,32,33,59,709 mm,Tamil Nadu,Zaid,['Jute']
+Clayey,46.00%,63,28,101,705 mm,Karnataka,Rabi,['Rice']
+Black Cotton Soil,26.00%,35,32,54,732 mm,West Bengal,Kharif,['Cotton']
+Clayey,51.00%,58,35,53,437 mm,Karnataka,Kharif,"['Rice', 'Jute']"
+Clayey,43.00%,87,65,83,1041 mm,Odisha,Kharif,['Rice']
+Loamy,54.00%,82,70,55,351 mm,Karnataka,Kharif,"['Maize', 'Barley', 'Wheat']"
+Loamy,50.00%,115,50,29,638 mm,Karnataka,Kharif,"['Maize', 'Wheat']"
+Loamy,19.00%,109,76,89,344 mm,Maharashtra,Zaid,"['Wheat', 'Barley', 'Maize']"
+Sandy Loam,15.00%,115,23,33,381 mm,West Bengal,Kharif,"['Groundnut', 'Chickpea', 'Cotton']"
+Black Cotton Soil,41.00%,82,39,109,1077 mm,Punjab,Kharif,"['Soybean', 'Cotton', 'Sorghum']"
+Silty Loam,25.00%,117,24,64,1193 mm,Karnataka,Kharif,['Pulses']
+Black Cotton Soil,33.00%,108,68,25,750 mm,Andhra Pradesh,Rabi,"['Cotton', 'Sorghum', 'Soybean']"
+Silty Loam,46.00%,41,63,104,808 mm,Tamil Nadu,Zaid,"['Vegetables', 'Mustard', 'Pulses']"
+Black Cotton Soil,55.00%,81,86,68,1194 mm,West Bengal,Zaid,"['Soybean', 'Cotton']"
+Loamy,34.00%,42,83,61,1022 mm,Punjab,Kharif,"['Maize', 'Wheat']"
+Loamy,40.00%,31,63,77,403 mm,West Bengal,Zaid,"['Barley', 'Wheat']"
+Sandy Loam,18.00%,114,43,95,401 mm,Maharashtra,Kharif,"['Chickpea', 'Cotton', 'Groundnut']"
+Sandy Loam,16.00%,51,38,96,835 mm,Odisha,Zaid,"['Groundnut', 'Cotton']"
+Clayey,33.00%,59,62,73,522 mm,Andhra Pradesh,Zaid,"['Rice', 'Jute']"
+Loamy,38.00%,119,40,43,463 mm,West Bengal,Rabi,['Maize']
+Silty Loam,33.00%,51,46,72,690 mm,West Bengal,Kharif,"['Vegetables', 'Mustard', 'Pulses']"
+Loamy,13.00%,74,61,43,836 mm,Maharashtra,Rabi,"['Maize', 'Wheat', 'Barley']"
+Sandy Loam,13.00%,92,40,35,815 mm,Maharashtra,Rabi,"['Chickpea', 'Cotton', 'Groundnut']"
+Silty Loam,17.00%,100,32,48,973 mm,Punjab,Zaid,"['Mustard', 'Pulses', 'Vegetables']"
+Sandy Loam,35.00%,109,89,35,681 mm,Odisha,Rabi,['Chickpea']
+Black Cotton Soil,48.00%,112,54,28,568 mm,Odisha,Zaid,"['Soybean', 'Sorghum', 'Cotton']"
+Sandy Loam,23.00%,103,83,81,903 mm,Tamil Nadu,Zaid,"['Chickpea', 'Groundnut', 'Cotton']"
+Loamy,56.00%,88,22,24,390 mm,Maharashtra,Rabi,['Wheat']
+Loamy,47.00%,91,23,75,941 mm,Punjab,Zaid,"['Barley', 'Maize']"
+Black Cotton Soil,60.00%,51,58,41,1028 mm,Tamil Nadu,Rabi,"['Sorghum', 'Cotton', 'Soybean']"
+Loamy,15.00%,92,70,40,782 mm,Odisha,Kharif,['Wheat']
+Silty Loam,30.00%,103,57,60,586 mm,Tamil Nadu,Zaid,"['Mustard', 'Pulses']"
+Loamy,56.00%,34,61,99,700 mm,West Bengal,Rabi,['Wheat']
+Black Cotton Soil,36.00%,38,66,73,1147 mm,Maharashtra,Zaid,"['Soybean', 'Sorghum']"
+Black Cotton Soil,53.00%,113,29,78,327 mm,Maharashtra,Zaid,"['Soybean', 'Sorghum']"
+Clayey,47.00%,110,27,62,770 mm,West Bengal,Kharif,['Sugarcane']
+Black Cotton Soil,16.00%,50,23,47,1066 mm,Punjab,Kharif,"['Soybean', 'Cotton', 'Sorghum']"
+Loamy,48.00%,91,66,82,934 mm,Maharashtra,Kharif,"['Maize', 'Wheat', 'Barley']"
+Clayey,12.00%,85,24,92,428 mm,Karnataka,Kharif,"['Jute', 'Sugarcane']"
+Loamy,47.00%,94,67,98,1103 mm,Maharashtra,Kharif,"['Wheat', 'Maize', 'Barley']"
+Silty Loam,42.00%,82,74,49,1048 mm,Andhra Pradesh,Rabi,"['Mustard', 'Vegetables', 'Pulses']"
+Silty Loam,11.00%,33,84,63,1037 mm,Karnataka,Kharif,"['Mustard', 'Pulses', 'Vegetables']"
+Silty Loam,54.00%,78,79,84,604 mm,Karnataka,Rabi,"['Mustard', 'Pulses', 'Vegetables']"
+Clayey,21.00%,115,54,69,980 mm,Andhra Pradesh,Zaid,['Jute']
+Silty Loam,31.00%,34,45,63,729 mm,Punjab,Kharif,"['Mustard', 'Pulses']"
+Silty Loam,34.00%,101,63,108,814 mm,Karnataka,Kharif,"['Vegetables', 'Pulses']"
+Sandy Loam,19.00%,100,52,26,484 mm,West Bengal,Kharif,"['Chickpea', 'Cotton']"
+Loamy,33.00%,73,30,46,638 mm,West Bengal,Kharif,"['Wheat', 'Barley']"
+Clayey,33.00%,37,37,78,520 mm,Andhra Pradesh,Rabi,"['Sugarcane', 'Rice', 'Jute']"
+Silty Loam,37.00%,46,77,36,840 mm,Andhra Pradesh,Rabi,"['Mustard', 'Pulses', 'Vegetables']"
+Loamy,56.00%,52,65,87,813 mm,Punjab,Kharif,['Barley']
+Black Cotton Soil,16.00%,62,68,46,338 mm,Andhra Pradesh,Rabi,"['Soybean', 'Cotton']"
+Clayey,28.00%,119,29,87,993 mm,Odisha,Zaid,"['Rice', 'Sugarcane', 'Jute']"
+Sandy Loam,34.00%,113,62,99,999 mm,Punjab,Zaid,"['Cotton', 'Groundnut', 'Chickpea']"
+Loamy,19.00%,114,65,56,320 mm,Maharashtra,Rabi,"['Barley', 'Wheat', 'Maize']"
+Sandy Loam,46.00%,79,74,71,565 mm,Andhra Pradesh,Kharif,['Cotton']
+Clayey,55.00%,77,77,105,609 mm,West Bengal,Kharif,"['Sugarcane', 'Jute']"
+Black Cotton Soil,26.00%,88,33,107,1075 mm,Andhra Pradesh,Rabi,['Soybean']
+Clayey,41.00%,59,24,77,1076 mm,West Bengal,Zaid,"['Sugarcane', 'Jute', 'Rice']"
+Sandy Loam,38.00%,77,67,77,712 mm,Tamil Nadu,Kharif,"['Cotton', 'Chickpea']"
+Black Cotton Soil,29.00%,94,79,91,692 mm,Tamil Nadu,Zaid,"['Sorghum', 'Cotton']"
+Sandy Loam,10.00%,42,62,67,833 mm,Karnataka,Kharif,"['Chickpea', 'Cotton']"
+Clayey,22.00%,44,44,93,623 mm,Karnataka,Kharif,"['Rice', 'Sugarcane', 'Jute']"
+Black Cotton Soil,50.00%,90,35,60,811 mm,Odisha,Kharif,['Soybean']
+Clayey,49.00%,43,71,76,630 mm,Tamil Nadu,Zaid,"['Sugarcane', 'Jute']"
+Loamy,41.00%,73,33,81,714 mm,Andhra Pradesh,Zaid,"['Maize', 'Wheat', 'Barley']"
+Silty Loam,14.00%,83,24,44,929 mm,Andhra Pradesh,Rabi,"['Pulses', 'Mustard', 'Vegetables']"
+Silty Loam,40.00%,87,69,29,1091 mm,Punjab,Rabi,"['Mustard', 'Vegetables']"
+Clayey,36.00%,120,54,106,727 mm,Maharashtra,Zaid,['Jute']
+Clayey,27.00%,88,24,92,537 mm,Karnataka,Zaid,"['Jute', 'Rice', 'Sugarcane']"
+Loamy,55.00%,112,44,79,626 mm,Andhra Pradesh,Rabi,['Maize']
+Clayey,34.00%,109,34,88,784 mm,Andhra Pradesh,Kharif,['Sugarcane']
+Silty Loam,38.00%,55,60,76,314 mm,West Bengal,Zaid,['Vegetables']
+Black Cotton Soil,28.00%,111,86,95,809 mm,Odisha,Zaid,"['Sorghum', 'Cotton']"
+Sandy Loam,52.00%,90,42,48,1018 mm,Karnataka,Kharif,['Chickpea']
+Clayey,27.00%,109,33,61,1145 mm,Maharashtra,Rabi,"['Sugarcane', 'Rice']"
+Clayey,19.00%,73,88,70,907 mm,Tamil Nadu,Kharif,['Rice']
+Silty Loam,36.00%,59,52,48,497 mm,Andhra Pradesh,Rabi,"['Vegetables', 'Pulses']"
+Loamy,50.00%,68,72,69,1038 mm,Andhra Pradesh,Rabi,"['Maize', 'Wheat']"
+Silty Loam,57.00%,39,68,55,806 mm,Maharashtra,Kharif,"['Mustard', 'Pulses', 'Vegetables']"
+Loamy,12.00%,109,88,107,1126 mm,Odisha,Rabi,"['Wheat', 'Barley']"
+Sandy Loam,43.00%,91,37,42,501 mm,Karnataka,Rabi,"['Chickpea', 'Groundnut', 'Cotton']"
+Clayey,22.00%,92,90,58,973 mm,Andhra Pradesh,Kharif,"['Rice', 'Jute', 'Sugarcane']"
+Silty Loam,34.00%,118,60,107,1165 mm,Maharashtra,Kharif,"['Vegetables', 'Pulses', 'Mustard']"
+Black Cotton Soil,32.00%,51,46,88,582 mm,Andhra Pradesh,Kharif,"['Soybean', 'Cotton']"
+Clayey,21.00%,57,25,30,423 mm,Karnataka,Rabi,['Sugarcane']
+Sandy Loam,10.00%,95,85,103,796 mm,Maharashtra,Kharif,"['Chickpea', 'Cotton', 'Groundnut']"
+Silty Loam,28.00%,57,26,47,792 mm,Tamil Nadu,Rabi,['Vegetables']
+Sandy Loam,56.00%,117,74,39,638 mm,Andhra Pradesh,Zaid,"['Groundnut', 'Chickpea']"
+Silty Loam,34.00%,93,61,53,659 mm,Andhra Pradesh,Zaid,['Pulses']
+Loamy,24.00%,120,43,22,603 mm,Maharashtra,Rabi,['Wheat']
+Loamy,52.00%,109,73,105,674 mm,Karnataka,Zaid,['Maize']
+Loamy,54.00%,38,83,36,1067 mm,Andhra Pradesh,Rabi,['Wheat']
+Sandy Loam,57.00%,88,69,28,942 mm,Maharashtra,Rabi,"['Groundnut', 'Cotton']"
+Loamy,51.00%,100,85,48,1069 mm,Punjab,Rabi,"['Wheat', 'Maize']"
+Silty Loam,26.00%,33,62,67,664 mm,Tamil Nadu,Kharif,['Pulses']
+Sandy Loam,19.00%,55,25,62,777 mm,Punjab,Zaid,['Chickpea']
+Silty Loam,32.00%,48,56,42,747 mm,Punjab,Zaid,"['Pulses', 'Vegetables', 'Mustard']"
+Silty Loam,26.00%,54,86,38,1189 mm,West Bengal,Zaid,"['Mustard', 'Pulses', 'Vegetables']"
+Black Cotton Soil,26.00%,98,84,66,320 mm,Maharashtra,Zaid,['Sorghum']
+Clayey,60.00%,76,26,92,1131 mm,Odisha,Kharif,['Jute']
+Black Cotton Soil,52.00%,69,26,38,447 mm,Tamil Nadu,Zaid,['Cotton']
+Sandy Loam,47.00%,36,20,105,661 mm,West Bengal,Kharif,"['Groundnut', 'Cotton']"
+Silty Loam,19.00%,45,50,25,1153 mm,Karnataka,Kharif,['Pulses']
+Silty Loam,35.00%,84,22,80,843 mm,Andhra Pradesh,Zaid,['Mustard']
+Clayey,50.00%,50,79,72,373 mm,Punjab,Rabi,"['Jute', 'Rice', 'Sugarcane']"
+Loamy,39.00%,89,69,63,358 mm,Punjab,Kharif,"['Wheat', 'Maize']"
+Clayey,11.00%,95,57,79,548 mm,Andhra Pradesh,Rabi,"['Rice', 'Sugarcane', 'Jute']"
+Loamy,30.00%,48,33,48,1147 mm,West Bengal,Kharif,"['Wheat', 'Barley']"
+Loamy,60.00%,78,85,67,811 mm,Maharashtra,Zaid,['Barley']
+Sandy Loam,50.00%,46,77,87,1011 mm,Tamil Nadu,Kharif,['Groundnut']
+Sandy Loam,57.00%,95,38,31,552 mm,Maharashtra,Rabi,"['Groundnut', 'Cotton', 'Chickpea']"
+Sandy Loam,24.00%,30,31,110,858 mm,West Bengal,Zaid,"['Cotton', 'Groundnut', 'Chickpea']"
+Loamy,15.00%,49,61,23,1096 mm,Maharashtra,Rabi,"['Maize', 'Barley']"
+Loamy,55.00%,105,32,65,559 mm,Maharashtra,Kharif,['Barley']
+Clayey,27.00%,48,38,97,781 mm,Andhra Pradesh,Rabi,['Sugarcane']
+Clayey,35.00%,88,54,23,578 mm,Punjab,Kharif,"['Sugarcane', 'Jute', 'Rice']"
+Sandy Loam,44.00%,79,75,40,869 mm,Maharashtra,Rabi,"['Groundnut', 'Cotton']"
+Sandy Loam,27.00%,111,47,31,1042 mm,Maharashtra,Kharif,['Cotton']
+Sandy Loam,43.00%,65,39,30,1033 mm,Tamil Nadu,Rabi,['Groundnut']
+Clayey,46.00%,93,22,72,700 mm,Karnataka,Zaid,['Rice']
+Silty Loam,52.00%,110,70,25,1114 mm,Tamil Nadu,Rabi,['Vegetables']
+Loamy,30.00%,72,73,72,500 mm,Maharashtra,Kharif,"['Wheat', 'Maize', 'Barley']"
+Black Cotton Soil,15.00%,42,32,25,487 mm,Odisha,Kharif,"['Soybean', 'Cotton', 'Sorghum']"
+Loamy,46.00%,96,39,91,1069 mm,Tamil Nadu,Rabi,"['Wheat', 'Barley', 'Maize']"
+Clayey,28.00%,54,40,40,489 mm,Andhra Pradesh,Rabi,['Rice']
+Black Cotton Soil,15.00%,58,84,68,682 mm,Andhra Pradesh,Zaid,['Soybean']
+Sandy Loam,40.00%,31,39,100,736 mm,Odisha,Kharif,['Groundnut']
+Loamy,59.00%,90,38,35,435 mm,Odisha,Rabi,['Maize']
+Clayey,44.00%,45,32,91,554 mm,Andhra Pradesh,Zaid,"['Jute', 'Rice', 'Sugarcane']"
+Clayey,47.00%,91,39,27,561 mm,Andhra Pradesh,Rabi,"['Jute', 'Rice', 'Sugarcane']"
+Black Cotton Soil,28.00%,110,37,62,527 mm,Maharashtra,Zaid,"['Sorghum', 'Soybean', 'Cotton']"
+Sandy Loam,58.00%,82,75,34,474 mm,Karnataka,Rabi,['Groundnut']
+Black Cotton Soil,31.00%,104,23,27,745 mm,Maharashtra,Rabi,['Sorghum']
+Silty Loam,11.00%,58,53,54,1028 mm,Andhra Pradesh,Kharif,['Vegetables']
+Sandy Loam,24.00%,54,49,23,428 mm,Karnataka,Rabi,['Chickpea']
+Loamy,59.00%,33,58,71,1133 mm,Maharashtra,Zaid,['Maize']
+Clayey,33.00%,72,89,32,1060 mm,West Bengal,Zaid,"['Rice', 'Sugarcane', 'Jute']"
+Sandy Loam,13.00%,57,57,56,907 mm,Tamil Nadu,Kharif,['Chickpea']
+Silty Loam,41.00%,71,90,21,482 mm,Odisha,Rabi,"['Vegetables', 'Mustard']"
+Silty Loam,31.00%,78,61,92,556 mm,Punjab,Rabi,['Pulses']
+Black Cotton Soil,55.00%,100,46,110,716 mm,Punjab,Kharif,"['Sorghum', 'Soybean']"
+Loamy,29.00%,76,37,39,546 mm,West Bengal,Zaid,"['Maize', 'Barley']"
+Clayey,38.00%,92,45,35,327 mm,Maharashtra,Rabi,"['Jute', 'Sugarcane', 'Rice']"
+Clayey,31.00%,66,38,45,671 mm,Odisha,Kharif,"['Jute', 'Sugarcane', 'Rice']"
+Loamy,12.00%,91,21,49,470 mm,West Bengal,Rabi,['Barley']
+Clayey,39.00%,107,27,96,548 mm,Karnataka,Rabi,['Rice']
+Silty Loam,57.00%,38,64,94,1195 mm,West Bengal,Zaid,['Mustard']
+Clayey,45.00%,35,43,36,609 mm,Punjab,Kharif,"['Sugarcane', 'Jute', 'Rice']"
+Clayey,35.00%,44,77,75,886 mm,Maharashtra,Kharif,"['Sugarcane', 'Jute', 'Rice']"
+Black Cotton Soil,36.00%,63,28,89,1155 mm,West Bengal,Zaid,['Sorghum']
+Black Cotton Soil,21.00%,92,32,61,376 mm,Tamil Nadu,Rabi,"['Sorghum', 'Soybean', 'Cotton']"
+Sandy Loam,51.00%,91,41,49,1003 mm,Odisha,Rabi,"['Groundnut', 'Chickpea']"
+Silty Loam,53.00%,108,26,87,1000 mm,Maharashtra,Rabi,['Vegetables']
+Clayey,11.00%,58,26,33,1026 mm,West Bengal,Zaid,['Sugarcane']
+Silty Loam,55.00%,76,42,87,367 mm,West Bengal,Zaid,"['Pulses', 'Mustard']"
+Loamy,16.00%,31,28,102,639 mm,Punjab,Zaid,"['Barley', 'Wheat']"
+Black Cotton Soil,50.00%,64,22,66,1071 mm,Odisha,Kharif,['Cotton']
+Clayey,48.00%,100,61,71,1069 mm,Punjab,Kharif,"['Sugarcane', 'Jute']"
+Sandy Loam,44.00%,34,71,42,688 mm,Karnataka,Kharif,"['Cotton', 'Groundnut']"
+Sandy Loam,53.00%,112,69,36,798 mm,Tamil Nadu,Zaid,"['Groundnut', 'Cotton', 'Chickpea']"
+Sandy Loam,22.00%,67,85,33,1095 mm,Andhra Pradesh,Zaid,"['Groundnut', 'Cotton']"
+Sandy Loam,29.00%,58,32,54,396 mm,Tamil Nadu,Kharif,"['Cotton', 'Chickpea']"
+Silty Loam,47.00%,85,36,64,370 mm,West Bengal,Rabi,['Mustard']
+Black Cotton Soil,16.00%,65,49,68,488 mm,Karnataka,Kharif,"['Sorghum', 'Cotton', 'Soybean']"
+Sandy Loam,47.00%,40,44,71,570 mm,Karnataka,Rabi,"['Cotton', 'Chickpea']"
+Silty Loam,57.00%,81,55,79,591 mm,Punjab,Zaid,"['Pulses', 'Mustard']"
+Silty Loam,45.00%,105,31,94,554 mm,Punjab,Zaid,"['Vegetables', 'Mustard', 'Pulses']"
+Silty Loam,30.00%,60,71,84,652 mm,Maharashtra,Kharif,"['Pulses', 'Mustard', 'Vegetables']"
+Loamy,49.00%,108,27,58,682 mm,Tamil Nadu,Kharif,"['Maize', 'Barley']"
+Loamy,35.00%,111,52,24,360 mm,Tamil Nadu,Rabi,"['Barley', 'Maize', 'Wheat']"
+Black Cotton Soil,24.00%,70,47,66,336 mm,Andhra Pradesh,Zaid,"['Cotton', 'Soybean', 'Sorghum']"
+Silty Loam,20.00%,109,28,55,884 mm,Punjab,Kharif,"['Mustard', 'Vegetables']"
+Silty Loam,38.00%,52,30,33,931 mm,Punjab,Kharif,"['Pulses', 'Mustard', 'Vegetables']"
+Silty Loam,59.00%,56,65,81,750 mm,Andhra Pradesh,Zaid,"['Pulses', 'Mustard']"
+Clayey,42.00%,69,79,69,772 mm,West Bengal,Kharif,['Sugarcane']
+Clayey,21.00%,82,61,53,1175 mm,Punjab,Rabi,"['Rice', 'Sugarcane']"
+Sandy Loam,42.00%,85,85,102,547 mm,Tamil Nadu,Kharif,['Chickpea']
+Clayey,29.00%,103,37,32,763 mm,West Bengal,Kharif,"['Jute', 'Rice', 'Sugarcane']"
+Clayey,14.00%,31,68,60,1022 mm,Odisha,Kharif,"['Rice', 'Sugarcane', 'Jute']"
+Black Cotton Soil,33.00%,59,36,86,916 mm,West Bengal,Zaid,"['Sorghum', 'Cotton']"
+Clayey,23.00%,31,55,52,413 mm,Karnataka,Zaid,['Sugarcane']
+Sandy Loam,45.00%,76,32,52,977 mm,Maharashtra,Rabi,"['Chickpea', 'Cotton']"
+Clayey,30.00%,74,90,25,1094 mm,Punjab,Zaid,"['Sugarcane', 'Jute', 'Rice']"
+Clayey,20.00%,108,30,48,1000 mm,Karnataka,Rabi,"['Rice', 'Sugarcane']"
+Loamy,25.00%,96,87,66,781 mm,West Bengal,Zaid,"['Barley', 'Maize', 'Wheat']"
+Clayey,52.00%,98,22,76,671 mm,Andhra Pradesh,Kharif,"['Jute', 'Sugarcane']"
+Clayey,42.00%,70,27,36,560 mm,West Bengal,Rabi,['Jute']
+Black Cotton Soil,46.00%,106,24,75,994 mm,Karnataka,Rabi,['Soybean']
+Loamy,28.00%,117,37,65,730 mm,Karnataka,Kharif,"['Wheat', 'Barley']"
+Sandy Loam,44.00%,45,33,67,387 mm,Andhra Pradesh,Rabi,"['Groundnut', 'Chickpea']"
+Clayey,35.00%,51,85,63,1026 mm,Tamil Nadu,Zaid,['Jute']
+Silty Loam,11.00%,119,48,91,864 mm,Karnataka,Kharif,['Pulses']
+Clayey,46.00%,68,20,40,1145 mm,Tamil Nadu,Zaid,['Rice']
+Loamy,21.00%,85,64,96,881 mm,West Bengal,Zaid,"['Wheat', 'Maize']"
+Loamy,26.00%,48,37,27,836 mm,Odisha,Kharif,"['Wheat', 'Maize']"
+Clayey,29.00%,58,29,23,925 mm,Maharashtra,Kharif,"['Rice', 'Jute', 'Sugarcane']"
+Silty Loam,20.00%,105,25,41,928 mm,Punjab,Kharif,"['Mustard', 'Pulses']"
+Clayey,56.00%,58,77,61,826 mm,Maharashtra,Zaid,"['Rice', 'Jute', 'Sugarcane']"
+Clayey,24.00%,107,82,58,639 mm,West Bengal,Kharif,"['Rice', 'Sugarcane']"
+Loamy,56.00%,77,54,46,915 mm,West Bengal,Zaid,"['Maize', 'Wheat']"
+Sandy Loam,10.00%,95,52,33,626 mm,Maharashtra,Rabi,"['Chickpea', 'Cotton']"
+Black Cotton Soil,33.00%,94,61,100,897 mm,Maharashtra,Kharif,['Soybean']
+Loamy,24.00%,38,70,100,737 mm,Maharashtra,Kharif,"['Wheat', 'Maize', 'Barley']"
+Sandy Loam,16.00%,58,89,20,656 mm,West Bengal,Kharif,"['Groundnut', 'Chickpea', 'Cotton']"
+Loamy,46.00%,40,65,89,782 mm,Tamil Nadu,Zaid,"['Barley', 'Wheat']"
+Loamy,53.00%,109,46,46,1146 mm,West Bengal,Zaid,"['Wheat', 'Maize', 'Barley']"
+Black Cotton Soil,34.00%,76,32,90,919 mm,West Bengal,Zaid,"['Sorghum', 'Soybean']"
+Clayey,51.00%,58,43,97,1107 mm,West Bengal,Zaid,"['Sugarcane', 'Rice', 'Jute']"
+Sandy Loam,15.00%,71,44,33,1097 mm,Tamil Nadu,Rabi,"['Cotton', 'Chickpea', 'Groundnut']"
+Silty Loam,54.00%,48,42,88,405 mm,Tamil Nadu,Zaid,"['Mustard', 'Pulses', 'Vegetables']"
+Black Cotton Soil,56.00%,105,40,83,607 mm,Maharashtra,Rabi,"['Soybean', 'Cotton']"
+Silty Loam,52.00%,84,45,109,848 mm,West Bengal,Rabi,"['Mustard', 'Vegetables', 'Pulses']"
+Loamy,53.00%,95,60,106,1108 mm,West Bengal,Kharif,"['Wheat', 'Maize']"
+Black Cotton Soil,45.00%,88,60,85,749 mm,Andhra Pradesh,Zaid,"['Soybean', 'Sorghum', 'Cotton']"
+Sandy Loam,58.00%,115,71,57,1165 mm,Andhra Pradesh,Rabi,"['Cotton', 'Chickpea']"
+Black Cotton Soil,27.00%,60,39,65,1098 mm,Maharashtra,Zaid,"['Cotton', 'Sorghum']"
+Loamy,19.00%,71,73,90,743 mm,Punjab,Rabi,"['Barley', 'Wheat', 'Maize']"
+Loamy,32.00%,37,65,57,431 mm,Odisha,Rabi,"['Barley', 'Maize']"
+Loamy,11.00%,98,36,21,800 mm,Karnataka,Rabi,['Wheat']
+Loamy,13.00%,107,28,53,702 mm,Andhra Pradesh,Zaid,"['Barley', 'Maize', 'Wheat']"
+Clayey,37.00%,81,50,38,784 mm,Tamil Nadu,Rabi,"['Rice', 'Sugarcane', 'Jute']"
+Sandy Loam,47.00%,51,87,27,910 mm,Tamil Nadu,Kharif,"['Groundnut', 'Chickpea', 'Cotton']"
+Clayey,23.00%,114,76,96,683 mm,Punjab,Kharif,"['Sugarcane', 'Rice', 'Jute']"
+Loamy,47.00%,42,62,68,313 mm,Odisha,Zaid,"['Wheat', 'Maize', 'Barley']"
+Black Cotton Soil,50.00%,70,33,26,326 mm,Maharashtra,Rabi,"['Sorghum', 'Cotton', 'Soybean']"
+Sandy Loam,33.00%,37,77,33,439 mm,Tamil Nadu,Rabi,"['Groundnut', 'Cotton']"
+Sandy Loam,19.00%,62,54,35,786 mm,Andhra Pradesh,Rabi,"['Cotton', 'Groundnut']"
+Clayey,57.00%,101,45,53,679 mm,Tamil Nadu,Zaid,"['Rice', 'Sugarcane', 'Jute']"
+Black Cotton Soil,27.00%,77,87,106,873 mm,Punjab,Kharif,['Soybean']
+Loamy,20.00%,81,78,98,542 mm,Andhra Pradesh,Rabi,"['Barley', 'Maize']"
+Clayey,59.00%,107,49,105,589 mm,Andhra Pradesh,Rabi,['Jute']
+Sandy Loam,10.00%,37,24,66,409 mm,Odisha,Zaid,"['Groundnut', 'Chickpea', 'Cotton']"
+Sandy Loam,39.00%,109,57,21,1154 mm,Odisha,Kharif,"['Groundnut', 'Cotton', 'Chickpea']"
+Black Cotton Soil,44.00%,42,41,37,783 mm,Karnataka,Kharif,['Sorghum']
+Black Cotton Soil,25.00%,73,59,79,427 mm,Maharashtra,Kharif,['Soybean']
+Sandy Loam,45.00%,67,40,87,802 mm,Maharashtra,Rabi,"['Chickpea', 'Cotton']"
+Clayey,55.00%,79,71,20,1161 mm,Odisha,Rabi,['Rice']
+Clayey,59.00%,95,61,77,580 mm,Karnataka,Zaid,['Rice']
+Loamy,14.00%,104,29,26,400 mm,Punjab,Rabi,"['Barley', 'Maize']"
+Silty Loam,39.00%,59,59,101,706 mm,Karnataka,Kharif,"['Pulses', 'Vegetables', 'Mustard']"
+Loamy,29.00%,81,88,51,661 mm,Punjab,Rabi,['Barley']
+Loamy,51.00%,117,27,69,1187 mm,Andhra Pradesh,Zaid,"['Maize', 'Barley']"
+Loamy,37.00%,112,87,37,499 mm,West Bengal,Kharif,['Barley']
+Black Cotton Soil,41.00%,67,82,27,650 mm,Karnataka,Rabi,['Cotton']
+Clayey,15.00%,109,37,72,1100 mm,Punjab,Zaid,"['Rice', 'Sugarcane', 'Jute']"
+Black Cotton Soil,59.00%,74,90,77,876 mm,Punjab,Zaid,"['Sorghum', 'Soybean']"
+Silty Loam,41.00%,40,32,44,609 mm,Maharashtra,Rabi,"['Mustard', 'Pulses', 'Vegetables']"
+Black Cotton Soil,22.00%,84,62,110,364 mm,Andhra Pradesh,Kharif,['Sorghum']
+Loamy,40.00%,110,28,29,925 mm,Tamil Nadu,Rabi,['Barley']
+Black Cotton Soil,56.00%,58,59,38,1152 mm,Maharashtra,Kharif,"['Cotton', 'Sorghum', 'Soybean']"
+Loamy,21.00%,103,22,68,706 mm,Tamil Nadu,Zaid,"['Wheat', 'Maize']"
+Black Cotton Soil,41.00%,120,47,26,585 mm,Karnataka,Kharif,['Sorghum']
+Sandy Loam,46.00%,92,80,78,1180 mm,Tamil Nadu,Zaid,['Groundnut']
+Loamy,37.00%,119,45,91,934 mm,Karnataka,Zaid,"['Maize', 'Wheat', 'Barley']"
+Silty Loam,10.00%,114,31,108,793 mm,Punjab,Zaid,['Vegetables']
+Sandy Loam,42.00%,111,54,54,518 mm,Punjab,Rabi,['Chickpea']
+Clayey,51.00%,102,31,63,1196 mm,Punjab,Rabi,['Jute']
+Silty Loam,12.00%,45,87,45,956 mm,Tamil Nadu,Zaid,"['Pulses', 'Mustard']"
+Sandy Loam,54.00%,104,73,55,1113 mm,Odisha,Zaid,"['Chickpea', 'Cotton', 'Groundnut']"
+Silty Loam,16.00%,53,45,106,590 mm,Tamil Nadu,Kharif,"['Vegetables', 'Pulses', 'Mustard']"
+Silty Loam,29.00%,83,61,56,726 mm,Maharashtra,Kharif,"['Mustard', 'Vegetables', 'Pulses']"
+Sandy Loam,26.00%,47,79,21,803 mm,Karnataka,Zaid,"['Chickpea', 'Groundnut', 'Cotton']"
+Loamy,19.00%,115,89,51,1045 mm,West Bengal,Rabi,"['Barley', 'Maize', 'Wheat']"
+Sandy Loam,17.00%,59,79,73,1017 mm,Karnataka,Zaid,['Cotton']
+Loamy,47.00%,45,38,54,640 mm,Tamil Nadu,Kharif,['Maize']
+Sandy Loam,30.00%,115,39,96,792 mm,Punjab,Rabi,"['Chickpea', 'Groundnut']"
+Loamy,36.00%,87,57,103,925 mm,West Bengal,Kharif,['Wheat']
+Black Cotton Soil,50.00%,75,57,59,751 mm,Maharashtra,Zaid,"['Cotton', 'Sorghum']"
+Loamy,14.00%,51,63,57,753 mm,Odisha,Zaid,"['Barley', 'Wheat']"
+Black Cotton Soil,35.00%,43,86,97,661 mm,Maharashtra,Zaid,"['Sorghum', 'Cotton', 'Soybean']"
+Silty Loam,32.00%,74,80,58,1158 mm,Maharashtra,Rabi,"['Pulses', 'Mustard']"
+Sandy Loam,53.00%,119,75,51,1107 mm,Odisha,Kharif,"['Groundnut', 'Chickpea', 'Cotton']"
+Loamy,31.00%,57,56,48,397 mm,West Bengal,Kharif,"['Barley', 'Maize', 'Wheat']"
+Sandy Loam,13.00%,46,49,89,1199 mm,Odisha,Rabi,"['Chickpea', 'Cotton']"
+Silty Loam,55.00%,72,33,25,719 mm,Andhra Pradesh,Zaid,"['Mustard', 'Pulses']"
+Clayey,49.00%,62,55,37,835 mm,Andhra Pradesh,Rabi,"['Sugarcane', 'Jute']"
+Sandy Loam,57.00%,88,26,84,878 mm,Odisha,Kharif,"['Groundnut', 'Cotton']"
+Silty Loam,19.00%,70,26,21,1082 mm,Andhra Pradesh,Zaid,"['Mustard', 'Vegetables', 'Pulses']"
+Sandy Loam,28.00%,83,65,101,973 mm,Karnataka,Kharif,"['Chickpea', 'Cotton']"
+Sandy Loam,54.00%,108,76,75,379 mm,Andhra Pradesh,Zaid,['Chickpea']
+Clayey,12.00%,118,69,44,409 mm,Maharashtra,Zaid,['Jute']
+Silty Loam,40.00%,93,26,34,392 mm,Tamil Nadu,Kharif,['Pulses']
+Loamy,27.00%,111,75,88,1108 mm,Karnataka,Kharif,"['Wheat', 'Barley']"
+Black Cotton Soil,42.00%,120,75,36,889 mm,Karnataka,Rabi,"['Soybean', 'Sorghum']"
+Sandy Loam,29.00%,74,73,84,720 mm,Tamil Nadu,Kharif,"['Chickpea', 'Cotton']"
+Loamy,18.00%,39,88,81,1194 mm,West Bengal,Rabi,"['Barley', 'Maize', 'Wheat']"
+Clayey,40.00%,99,20,35,430 mm,Maharashtra,Rabi,['Jute']
+Black Cotton Soil,29.00%,38,64,97,736 mm,Odisha,Zaid,"['Soybean', 'Cotton']"
+Sandy Loam,15.00%,69,68,81,323 mm,Karnataka,Kharif,['Groundnut']
+Sandy Loam,25.00%,75,79,42,511 mm,Tamil Nadu,Kharif,['Cotton']
+Clayey,56.00%,81,54,34,1130 mm,Andhra Pradesh,Rabi,"['Sugarcane', 'Jute']"
+Black Cotton Soil,29.00%,43,46,32,429 mm,Karnataka,Zaid,"['Cotton', 'Sorghum', 'Soybean']"
+Black Cotton Soil,33.00%,78,34,107,923 mm,Odisha,Rabi,"['Soybean', 'Cotton']"
+Loamy,10.00%,59,73,107,392 mm,Karnataka,Rabi,"['Wheat', 'Barley', 'Maize']"
+Black Cotton Soil,21.00%,69,22,84,457 mm,West Bengal,Rabi,"['Sorghum', 'Soybean']"
+Silty Loam,37.00%,48,84,46,483 mm,Tamil Nadu,Kharif,"['Pulses', 'Vegetables']"
+Black Cotton Soil,36.00%,63,21,91,766 mm,Karnataka,Kharif,['Cotton']
+Clayey,23.00%,44,88,40,997 mm,Tamil Nadu,Kharif,"['Jute', 'Rice', 'Sugarcane']"
+Silty Loam,34.00%,96,27,64,600 mm,Punjab,Kharif,"['Vegetables', 'Mustard']"
+Sandy Loam,27.00%,72,90,84,737 mm,West Bengal,Rabi,"['Chickpea', 'Cotton', 'Groundnut']"
+Silty Loam,55.00%,80,83,70,644 mm,Maharashtra,Rabi,"['Pulses', 'Vegetables']"
+Silty Loam,41.00%,91,90,91,1002 mm,Karnataka,Zaid,"['Vegetables', 'Pulses']"
+Black Cotton Soil,35.00%,103,70,80,1178 mm,Punjab,Rabi,['Sorghum']
+Sandy Loam,46.00%,30,24,20,712 mm,Punjab,Rabi,['Groundnut']
+Silty Loam,41.00%,66,49,25,496 mm,Odisha,Rabi,"['Pulses', 'Mustard', 'Vegetables']"
+Black Cotton Soil,23.00%,92,36,53,969 mm,Karnataka,Rabi,['Soybean']
+Sandy Loam,17.00%,58,83,25,444 mm,Andhra Pradesh,Kharif,"['Groundnut', 'Chickpea']"
+Clayey,44.00%,95,33,31,1129 mm,Punjab,Rabi,"['Sugarcane', 'Jute']"
+Loamy,25.00%,77,83,102,600 mm,West Bengal,Zaid,"['Maize', 'Wheat', 'Barley']"
+Black Cotton Soil,43.00%,57,23,53,501 mm,Odisha,Kharif,"['Cotton', 'Sorghum']"
+Silty Loam,54.00%,46,67,86,1172 mm,Tamil Nadu,Zaid,['Vegetables']
+Loamy,43.00%,37,84,94,610 mm,West Bengal,Zaid,"['Maize', 'Barley', 'Wheat']"
+Sandy Loam,16.00%,115,32,60,647 mm,Odisha,Zaid,['Chickpea']
+Silty Loam,54.00%,101,23,86,1052 mm,Maharashtra,Kharif,"['Pulses', 'Mustard']"
+Loamy,24.00%,54,31,97,704 mm,Tamil Nadu,Zaid,"['Wheat', 'Barley']"
+Silty Loam,49.00%,74,88,20,1126 mm,West Bengal,Zaid,"['Vegetables', 'Pulses']"
+Loamy,28.00%,101,58,23,1006 mm,Punjab,Kharif,"['Wheat', 'Maize', 'Barley']"
+Clayey,22.00%,76,62,76,782 mm,Punjab,Zaid,['Sugarcane']
+Sandy Loam,25.00%,74,30,33,1117 mm,Odisha,Zaid,"['Groundnut', 'Cotton']"
+Sandy Loam,33.00%,72,86,90,413 mm,West Bengal,Kharif,['Groundnut']
+Loamy,20.00%,62,76,82,512 mm,Odisha,Rabi,"['Wheat', 'Maize', 'Barley']"
+Silty Loam,31.00%,91,34,45,1090 mm,Andhra Pradesh,Zaid,['Mustard']
+Black Cotton Soil,41.00%,94,76,107,837 mm,Tamil Nadu,Zaid,['Cotton']
+Clayey,12.00%,108,47,33,596 mm,Punjab,Kharif,"['Rice', 'Jute']"
+Sandy Loam,33.00%,70,87,39,1160 mm,Tamil Nadu,Kharif,['Cotton']
+Silty Loam,20.00%,114,33,73,876 mm,West Bengal,Zaid,"['Pulses', 'Vegetables']"
+Clayey,24.00%,36,55,34,1081 mm,Tamil Nadu,Zaid,"['Sugarcane', 'Rice', 'Jute']"
+Loamy,11.00%,101,59,110,342 mm,Andhra Pradesh,Rabi,['Maize']
+Silty Loam,23.00%,36,25,58,725 mm,Odisha,Kharif,"['Vegetables', 'Pulses', 'Mustard']"
+Loamy,37.00%,58,39,97,312 mm,Karnataka,Zaid,"['Maize', 'Wheat']"
+Loamy,59.00%,114,53,39,410 mm,Karnataka,Kharif,"['Maize', 'Wheat']"
+Sandy Loam,16.00%,98,57,39,530 mm,West Bengal,Zaid,['Cotton']
+Black Cotton Soil,20.00%,113,64,71,721 mm,Odisha,Zaid,"['Soybean', 'Sorghum']"
+Black Cotton Soil,31.00%,106,57,99,908 mm,Tamil Nadu,Kharif,['Cotton']
+Sandy Loam,14.00%,80,60,83,726 mm,Punjab,Zaid,['Chickpea']
+Black Cotton Soil,57.00%,108,68,37,483 mm,Maharashtra,Rabi,['Soybean']
+Silty Loam,59.00%,97,78,83,985 mm,Tamil Nadu,Rabi,"['Mustard', 'Vegetables']"
+Silty Loam,16.00%,77,79,73,364 mm,Andhra Pradesh,Kharif,"['Mustard', 'Pulses']"
+Clayey,26.00%,100,29,70,736 mm,Karnataka,Kharif,"['Rice', 'Sugarcane', 'Jute']"
+Sandy Loam,44.00%,77,28,110,953 mm,Odisha,Zaid,['Groundnut']
+Sandy Loam,47.00%,88,57,57,819 mm,Karnataka,Rabi,"['Chickpea', 'Groundnut']"
+Silty Loam,52.00%,110,42,25,841 mm,Maharashtra,Kharif,"['Vegetables', 'Pulses']"
+Clayey,45.00%,91,30,21,647 mm,West Bengal,Zaid,['Sugarcane']
+Sandy Loam,60.00%,100,80,57,571 mm,Tamil Nadu,Rabi,"['Cotton', 'Chickpea']"
+Black Cotton Soil,29.00%,72,42,97,382 mm,Punjab,Kharif,"['Sorghum', 'Soybean', 'Cotton']"
+Black Cotton Soil,25.00%,106,51,40,723 mm,Maharashtra,Kharif,['Soybean']
+Black Cotton Soil,56.00%,92,77,86,534 mm,Maharashtra,Rabi,['Sorghum']
+Silty Loam,45.00%,74,51,31,1044 mm,West Bengal,Kharif,"['Vegetables', 'Pulses', 'Mustard']"
+Black Cotton Soil,42.00%,44,46,57,482 mm,Karnataka,Rabi,"['Soybean', 'Cotton', 'Sorghum']"
+Clayey,14.00%,100,41,97,1017 mm,Punjab,Zaid,"['Sugarcane', 'Jute', 'Rice']"
+Black Cotton Soil,51.00%,65,75,37,344 mm,Andhra Pradesh,Rabi,"['Cotton', 'Soybean']"
+Clayey,25.00%,52,24,99,695 mm,Odisha,Rabi,['Sugarcane']
+Loamy,57.00%,104,85,94,863 mm,Maharashtra,Kharif,"['Barley', 'Maize']"
+Black Cotton Soil,16.00%,46,41,65,1086 mm,West Bengal,Zaid,['Cotton']
+Silty Loam,21.00%,51,89,52,873 mm,Karnataka,Rabi,['Mustard']
+Silty Loam,35.00%,64,69,35,435 mm,Odisha,Rabi,"['Pulses', 'Vegetables']"
+Loamy,25.00%,59,77,30,983 mm,Andhra Pradesh,Rabi,"['Wheat', 'Barley']"
+Silty Loam,47.00%,65,41,96,797 mm,Punjab,Zaid,['Vegetables']
+Sandy Loam,41.00%,56,45,23,847 mm,Punjab,Rabi,['Cotton']
+Clayey,48.00%,64,38,101,914 mm,Punjab,Kharif,"['Rice', 'Sugarcane']"
+Sandy Loam,44.00%,95,46,26,786 mm,Maharashtra,Kharif,"['Chickpea', 'Groundnut']"
+Clayey,45.00%,81,62,59,927 mm,Andhra Pradesh,Zaid,"['Sugarcane', 'Jute']"
+Black Cotton Soil,18.00%,41,67,39,444 mm,West Bengal,Rabi,"['Cotton', 'Soybean']"
+Silty Loam,28.00%,77,32,59,1035 mm,Maharashtra,Kharif,"['Mustard', 'Vegetables', 'Pulses']"
+Clayey,58.00%,66,60,25,379 mm,Tamil Nadu,Zaid,"['Sugarcane', 'Jute']"
+Silty Loam,24.00%,117,26,68,621 mm,Karnataka,Kharif,"['Pulses', 'Vegetables']"
+Sandy Loam,47.00%,88,47,20,490 mm,Maharashtra,Zaid,['Chickpea']
+Loamy,57.00%,96,61,105,767 mm,Odisha,Kharif,"['Barley', 'Wheat']"
+Loamy,23.00%,120,61,90,747 mm,Tamil Nadu,Zaid,"['Wheat', 'Maize']"
+Clayey,20.00%,31,36,32,1147 mm,Tamil Nadu,Zaid,['Rice']
+Black Cotton Soil,15.00%,112,58,52,607 mm,Karnataka,Kharif,['Soybean']
+Clayey,27.00%,95,26,40,1078 mm,Tamil Nadu,Kharif,"['Rice', 'Sugarcane', 'Jute']"
+Clayey,46.00%,87,79,79,788 mm,West Bengal,Zaid,['Jute']
+Silty Loam,24.00%,44,33,80,644 mm,Punjab,Zaid,['Pulses']
+Black Cotton Soil,48.00%,113,33,59,332 mm,Andhra Pradesh,Kharif,"['Soybean', 'Cotton', 'Sorghum']"
+Clayey,35.00%,38,83,43,865 mm,Andhra Pradesh,Rabi,['Jute']
+Clayey,43.00%,96,78,56,665 mm,Odisha,Kharif,['Sugarcane']
+Silty Loam,47.00%,87,87,86,909 mm,Andhra Pradesh,Rabi,"['Pulses', 'Mustard']"
+Sandy Loam,42.00%,100,56,30,384 mm,West Bengal,Kharif,"['Chickpea', 'Groundnut']"
+Loamy,20.00%,78,67,63,1034 mm,Andhra Pradesh,Kharif,"['Maize', 'Wheat']"
+Silty Loam,51.00%,79,60,39,520 mm,Tamil Nadu,Rabi,"['Vegetables', 'Mustard']"
+Sandy Loam,42.00%,61,21,73,815 mm,Maharashtra,Kharif,"['Cotton', 'Chickpea', 'Groundnut']"
+Sandy Loam,42.00%,80,38,74,979 mm,West Bengal,Rabi,"['Cotton', 'Groundnut']"
+Silty Loam,14.00%,82,90,84,346 mm,Punjab,Zaid,"['Pulses', 'Mustard', 'Vegetables']"
+Silty Loam,28.00%,109,22,100,637 mm,Karnataka,Kharif,"['Mustard', 'Pulses']"
+Black Cotton Soil,36.00%,30,33,79,367 mm,Punjab,Rabi,"['Soybean', 'Sorghum']"
+Silty Loam,39.00%,101,44,69,835 mm,Odisha,Kharif,"['Vegetables', 'Mustard']"
+Loamy,16.00%,78,49,74,773 mm,Punjab,Rabi,"['Wheat', 'Barley']"
+Silty Loam,14.00%,82,47,35,828 mm,Punjab,Kharif,"['Mustard', 'Vegetables', 'Pulses']"
+Sandy Loam,39.00%,119,73,102,801 mm,Andhra Pradesh,Kharif,"['Chickpea', 'Groundnut', 'Cotton']"
+Loamy,34.00%,56,42,103,966 mm,Andhra Pradesh,Rabi,"['Wheat', 'Maize']"
+Sandy Loam,32.00%,108,40,39,1149 mm,Maharashtra,Rabi,['Chickpea']
+Black Cotton Soil,37.00%,69,43,90,846 mm,Odisha,Zaid,"['Soybean', 'Cotton', 'Sorghum']"
+Black Cotton Soil,39.00%,94,72,47,1107 mm,Karnataka,Rabi,"['Cotton', 'Soybean']"
+Clayey,10.00%,119,45,36,944 mm,West Bengal,Zaid,"['Rice', 'Jute']"
+Sandy Loam,13.00%,106,73,104,962 mm,West Bengal,Zaid,['Cotton']
+Sandy Loam,57.00%,116,27,23,1150 mm,Odisha,Kharif,"['Cotton', 'Groundnut', 'Chickpea']"
+Clayey,37.00%,95,54,41,1112 mm,Tamil Nadu,Zaid,"['Sugarcane', 'Jute']"
+Sandy Loam,34.00%,86,71,65,321 mm,Maharashtra,Rabi,"['Cotton', 'Chickpea']"
+Silty Loam,28.00%,36,40,21,853 mm,West Bengal,Zaid,"['Vegetables', 'Pulses']"
+Black Cotton Soil,53.00%,49,41,75,885 mm,Andhra Pradesh,Zaid,['Sorghum']
+Sandy Loam,11.00%,77,73,32,809 mm,Odisha,Kharif,['Cotton']
+Black Cotton Soil,60.00%,33,55,90,440 mm,Odisha,Rabi,"['Soybean', 'Sorghum']"
+Silty Loam,58.00%,103,50,68,1186 mm,Odisha,Rabi,['Vegetables']
+Clayey,45.00%,116,39,30,454 mm,Karnataka,Rabi,['Rice']
+Silty Loam,46.00%,43,25,53,996 mm,Tamil Nadu,Zaid,"['Vegetables', 'Mustard', 'Pulses']"
+Clayey,13.00%,72,21,106,501 mm,West Bengal,Rabi,['Rice']
+Silty Loam,41.00%,82,28,29,1098 mm,Odisha,Kharif,"['Vegetables', 'Mustard']"
+Black Cotton Soil,22.00%,53,40,102,385 mm,Odisha,Kharif,['Sorghum']
+Loamy,56.00%,86,21,31,839 mm,Tamil Nadu,Rabi,"['Barley', 'Maize']"
+Sandy Loam,24.00%,84,38,76,787 mm,Andhra Pradesh,Rabi,"['Chickpea', 'Groundnut', 'Cotton']"
+Loamy,30.00%,85,51,47,758 mm,Punjab,Rabi,"['Barley', 'Wheat']"
+Clayey,41.00%,82,61,28,386 mm,Maharashtra,Zaid,"['Sugarcane', 'Rice']"
+Loamy,53.00%,88,78,24,758 mm,Andhra Pradesh,Rabi,"['Barley', 'Wheat', 'Maize']"
+Silty Loam,47.00%,96,39,24,1007 mm,Karnataka,Zaid,['Vegetables']
+Sandy Loam,28.00%,60,20,85,778 mm,Andhra Pradesh,Kharif,['Cotton']
+Silty Loam,35.00%,105,58,57,795 mm,Punjab,Rabi,"['Mustard', 'Vegetables', 'Pulses']"
+Sandy Loam,50.00%,119,30,80,958 mm,Maharashtra,Kharif,['Cotton']
+Black Cotton Soil,12.00%,47,84,20,588 mm,Tamil Nadu,Zaid,"['Sorghum', 'Soybean', 'Cotton']"
+Clayey,45.00%,52,81,22,1035 mm,Odisha,Zaid,"['Sugarcane', 'Rice', 'Jute']"
+Silty Loam,44.00%,74,46,42,463 mm,Odisha,Zaid,"['Mustard', 'Pulses', 'Vegetables']"
+Sandy Loam,56.00%,92,36,69,635 mm,Punjab,Rabi,"['Groundnut', 'Chickpea', 'Cotton']"
+Sandy Loam,32.00%,76,76,89,997 mm,Andhra Pradesh,Rabi,['Cotton']
+Silty Loam,51.00%,113,31,22,734 mm,Odisha,Kharif,"['Vegetables', 'Mustard', 'Pulses']"
+Loamy,42.00%,76,41,73,797 mm,Maharashtra,Kharif,"['Maize', 'Wheat', 'Barley']"
+Silty Loam,24.00%,55,73,47,755 mm,Tamil Nadu,Zaid,"['Vegetables', 'Pulses', 'Mustard']"
+Black Cotton Soil,42.00%,82,56,74,602 mm,Karnataka,Rabi,"['Cotton', 'Soybean']"
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
